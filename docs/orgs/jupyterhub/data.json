@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-05-09T06:48:52.917Z",
+  "fetched_at": "2026-05-10T07:00:17.280Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -10,11 +10,11 @@
       "fork": false,
       "private": false,
       "open_issues": 187,
-      "open_prs": 10,
-      "pushed_at": "2026-05-05T23:02:57Z",
+      "open_prs": 12,
+      "pushed_at": "2026-05-09T17:40:51Z",
       "created_at": "2014-06-12T23:22:10Z",
       "language": "Python",
-      "stars": 8276,
+      "stars": 8275,
       "release": null
     },
     {
@@ -375,7 +375,7 @@
       "fork": false,
       "private": false,
       "open_issues": 35,
-      "open_prs": 4,
+      "open_prs": 5,
       "pushed_at": "2026-04-28T19:48:37Z",
       "created_at": "2016-12-09T06:26:18Z",
       "language": "Python",
@@ -443,7 +443,7 @@
       "fork": false,
       "private": false,
       "open_issues": 227,
-      "open_prs": 30,
+      "open_prs": 31,
       "pushed_at": "2026-05-08T16:19:50Z",
       "created_at": "2017-04-26T00:28:26Z",
       "language": "Python",
