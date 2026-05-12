@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-05-11T07:20:26.449Z",
+  "fetched_at": "2026-05-12T07:05:24.390Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -29,7 +29,7 @@
       "pushed_at": "2026-03-07T02:10:46Z",
       "created_at": "2015-05-11T01:16:55Z",
       "language": "TypeScript",
-      "stars": 4013,
+      "stars": 4014,
       "release": {
         "tag": "v2.16.5",
         "published_at": "2023-01-10T01:02:49Z",
@@ -833,11 +833,11 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 0,
-      "pushed_at": "2026-05-11T05:16:40Z",
+      "open_prs": 1,
+      "pushed_at": "2026-05-12T06:36:07Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
-      "stars": 2660,
+      "stars": 2662,
       "release": {
         "tag": "v3.5.1",
         "published_at": "2026-05-06T16:26:19Z",
@@ -886,11 +886,11 @@
       "fork": false,
       "private": false,
       "open_issues": 143,
-      "open_prs": 24,
+      "open_prs": 25,
       "pushed_at": "2026-04-06T21:32:32Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6443,
+      "stars": 6444,
       "release": null
     },
     {
@@ -1693,15 +1693,15 @@
       "fork": false,
       "private": false,
       "open_issues": 20,
-      "open_prs": 9,
-      "pushed_at": "2026-05-11T07:17:45Z",
+      "open_prs": 10,
+      "pushed_at": "2026-05-12T04:26:44Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "Rust",
-      "stars": 107,
+      "stars": 108,
       "release": {
-        "tag": "v2.4.6-stable.202605082015",
-        "published_at": "2026-05-08T20:31:22Z",
-        "url": "https://github.com/nteract/desktop/releases/tag/v2.4.6-stable.202605082015"
+        "tag": "v2.4.7-stable.202605120217",
+        "published_at": "2026-05-12T02:39:43Z",
+        "url": "https://github.com/nteract/desktop/releases/tag/v2.4.7-stable.202605120217"
       }
     },
     {
@@ -1716,7 +1716,7 @@
       "pushed_at": "2026-03-24T15:35:46Z",
       "created_at": "2026-02-27T16:27:19Z",
       "language": null,
-      "stars": 15,
+      "stars": 14,
       "release": {
         "tag": "v1.9.1",
         "published_at": "2026-03-11T05:43:57Z",
@@ -1807,7 +1807,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-05-10T16:32:51Z",
+      "pushed_at": "2026-05-12T02:38:56Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 0,
@@ -1866,8 +1866,8 @@
       "fork": true,
       "private": false,
       "open_issues": 0,
-      "open_prs": 1,
-      "pushed_at": "2026-05-11T07:07:05Z",
+      "open_prs": 2,
+      "pushed_at": "2026-05-11T20:57:15Z",
       "created_at": "2026-05-04T15:40:27Z",
       "language": null,
       "stars": 0,
