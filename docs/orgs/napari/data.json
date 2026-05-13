@@ -1,6 +1,6 @@
 {
   "org": "napari",
-  "fetched_at": "2026-05-12T07:05:12.141Z",
+  "fetched_at": "2026-05-13T07:09:16.584Z",
   "repos": [
     {
       "name": "napari-core",
@@ -69,9 +69,9 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 1070,
-      "open_prs": 125,
-      "pushed_at": "2026-05-11T20:56:31Z",
+      "open_issues": 1071,
+      "open_prs": 124,
+      "pushed_at": "2026-05-12T15:13:32Z",
       "created_at": "2018-08-13T01:12:28Z",
       "language": "Python",
       "stars": 2652,
@@ -120,7 +120,7 @@
       "private": false,
       "open_issues": 4,
       "open_prs": 0,
-      "pushed_at": "2026-05-11T16:57:25Z",
+      "pushed_at": "2026-05-12T15:39:15Z",
       "created_at": "2019-07-17T14:59:21Z",
       "language": null,
       "stars": 47,
@@ -184,21 +184,6 @@
       "created_at": "2020-04-13T03:34:41Z",
       "language": "Python",
       "stars": 5,
-      "release": null
-    },
-    {
-      "name": "napari-plugins",
-      "url": "https://github.com/napari/napari-plugins",
-      "description": "A small package to provide utilities to plugins without depending on napari.",
-      "archived": true,
-      "fork": false,
-      "private": true,
-      "open_issues": 0,
-      "open_prs": 0,
-      "pushed_at": "2020-04-13T17:31:06Z",
-      "created_at": "2020-04-13T16:02:42Z",
-      "language": "Python",
-      "stars": 1,
       "release": null
     },
     {
@@ -423,9 +408,9 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 3,
-      "open_prs": 1,
-      "pushed_at": "2026-05-01T03:30:19Z",
+      "open_issues": 4,
+      "open_prs": 0,
+      "pushed_at": "2026-05-12T16:15:34Z",
       "created_at": "2022-04-16T05:31:18Z",
       "language": "Python",
       "stars": 13,
@@ -455,7 +440,7 @@
       "private": false,
       "open_issues": 14,
       "open_prs": 0,
-      "pushed_at": "2026-05-12T07:04:07Z",
+      "pushed_at": "2026-05-13T07:07:53Z",
       "created_at": "2022-07-27T17:29:23Z",
       "language": "Python",
       "stars": 4,
@@ -539,21 +524,6 @@
         "published_at": "2026-03-20T02:47:33Z",
         "url": "https://github.com/napari/napari-metadata/releases/tag/v0.3.0"
       }
-    },
-    {
-      "name": "private-meeting-minutes",
-      "url": "https://github.com/napari/private-meeting-minutes",
-      "description": "Minutes from private meetings of steering council and/or the core developer team.",
-      "archived": false,
-      "fork": false,
-      "private": true,
-      "open_issues": 0,
-      "open_prs": 0,
-      "pushed_at": "2026-04-08T23:46:19Z",
-      "created_at": "2023-02-17T00:45:52Z",
-      "language": null,
-      "stars": 0,
-      "release": null
     },
     {
       "name": "napari-plugin-manager",
@@ -651,7 +621,7 @@
       "private": false,
       "open_issues": 29,
       "open_prs": 2,
-      "pushed_at": "2026-05-12T03:33:41Z",
+      "pushed_at": "2026-05-13T03:33:57Z",
       "created_at": "2024-01-31T18:23:40Z",
       "language": "CSS",
       "stars": 7,
@@ -756,21 +726,6 @@
       "release": null
     },
     {
-      "name": "SC-discussion",
-      "url": "https://github.com/napari/SC-discussion",
-      "description": "Repo for core devs to raise issues for discussion with Steering Council",
-      "archived": false,
-      "fork": false,
-      "private": true,
-      "open_issues": 2,
-      "open_prs": 0,
-      "pushed_at": "2025-05-01T07:06:48Z",
-      "created_at": "2025-05-01T07:01:00Z",
-      "language": null,
-      "stars": 0,
-      "release": null
-    },
-    {
       "name": "napari-xarray",
       "url": "https://github.com/napari/napari-xarray",
       "description": "napari and xarray",
@@ -864,21 +819,6 @@
       "open_prs": 1,
       "pushed_at": "2025-10-26T05:49:19Z",
       "created_at": "2025-10-26T05:49:19Z",
-      "language": null,
-      "stars": 0,
-      "release": null
-    },
-    {
-      "name": "organization",
-      "url": "https://github.com/napari/organization",
-      "description": "Issues and tasks for managing the napari organization",
-      "archived": false,
-      "fork": false,
-      "private": true,
-      "open_issues": 1,
-      "open_prs": 0,
-      "pushed_at": "2025-10-31T00:33:50Z",
-      "created_at": "2025-10-31T00:33:49Z",
       "language": null,
       "stars": 0,
       "release": null
