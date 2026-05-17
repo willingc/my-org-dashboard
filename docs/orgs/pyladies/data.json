@@ -1,6 +1,6 @@
 {
   "org": "pyladies",
-  "fetched_at": "2026-05-16T06:52:48.101Z",
+  "fetched_at": "2026-05-17T07:03:40.040Z",
   "repos": [
     {
       "name": "pyladies",
@@ -10,8 +10,8 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 1,
-      "pushed_at": "2026-05-12T18:50:56Z",
+      "open_prs": 0,
+      "pushed_at": "2026-05-17T00:17:44Z",
       "created_at": "2011-04-20T01:34:28Z",
       "language": "JavaScript",
       "stars": 458,
@@ -944,7 +944,7 @@
       "pushed_at": "2026-05-12T17:27:59Z",
       "created_at": "2025-03-18T23:14:49Z",
       "language": "Python",
-      "stars": 27,
+      "stars": 28,
       "release": null
     },
     {
