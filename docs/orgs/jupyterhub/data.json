@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-05-17T07:03:32.533Z",
+  "fetched_at": "2026-05-18T07:31:16.104Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -14,7 +14,7 @@
       "pushed_at": "2026-05-13T21:46:44Z",
       "created_at": "2014-06-12T23:22:10Z",
       "language": "Python",
-      "stars": 8280,
+      "stars": 8281,
       "release": null
     },
     {
@@ -25,8 +25,8 @@
       "fork": false,
       "private": false,
       "open_issues": 13,
-      "open_prs": 2,
-      "pushed_at": "2026-05-04T20:54:48Z",
+      "open_prs": 3,
+      "pushed_at": "2026-05-18T06:28:55Z",
       "created_at": "2014-08-25T22:28:59Z",
       "language": "JavaScript",
       "stars": 270,
@@ -476,9 +476,9 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 41,
-      "open_prs": 7,
-      "pushed_at": "2026-05-17T06:05:40Z",
+      "open_issues": 42,
+      "open_prs": 11,
+      "pushed_at": "2026-05-18T06:31:03Z",
       "created_at": "2017-05-22T19:17:42Z",
       "language": "Python",
       "stars": 83,
@@ -492,7 +492,7 @@
       "fork": false,
       "private": false,
       "open_issues": 76,
-      "open_prs": 14,
+      "open_prs": 10,
       "pushed_at": "2026-04-08T16:42:04Z",
       "created_at": "2017-05-24T19:41:10Z",
       "language": "Python",
@@ -654,7 +654,7 @@
       "pushed_at": "2026-05-04T20:55:38Z",
       "created_at": "2018-06-15T22:37:12Z",
       "language": "Python",
-      "stars": 1132,
+      "stars": 1133,
       "release": null
     },
     {
@@ -805,7 +805,7 @@
       "private": false,
       "open_issues": 1,
       "open_prs": 0,
-      "pushed_at": "2026-04-30T11:41:01Z",
+      "pushed_at": "2026-05-17T21:22:33Z",
       "created_at": "2019-04-17T18:01:36Z",
       "language": "Python",
       "stars": 12,
@@ -1189,7 +1189,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 3,
-      "pushed_at": "2026-05-11T16:59:59Z",
+      "pushed_at": "2026-05-18T06:31:33Z",
       "created_at": "2024-11-24T23:17:24Z",
       "language": "Dockerfile",
       "stars": 5,

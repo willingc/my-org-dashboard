@@ -1,6 +1,6 @@
 {
   "org": "napari",
-  "fetched_at": "2026-05-17T07:03:26.535Z",
+  "fetched_at": "2026-05-18T07:31:08.412Z",
   "repos": [
     {
       "name": "napari-core",
@@ -69,7 +69,7 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 1071,
+      "open_issues": 1072,
       "open_prs": 123,
       "pushed_at": "2026-05-15T17:04:58Z",
       "created_at": "2018-08-13T01:12:28Z",
@@ -440,7 +440,7 @@
       "private": false,
       "open_issues": 14,
       "open_prs": 0,
-      "pushed_at": "2026-05-17T07:01:29Z",
+      "pushed_at": "2026-05-18T07:26:09Z",
       "created_at": "2022-07-27T17:29:23Z",
       "language": "Python",
       "stars": 4,
@@ -621,7 +621,7 @@
       "private": false,
       "open_issues": 29,
       "open_prs": 2,
-      "pushed_at": "2026-05-17T03:33:55Z",
+      "pushed_at": "2026-05-18T03:34:26Z",
       "created_at": "2024-01-31T18:23:40Z",
       "language": "CSS",
       "stars": 7,
@@ -636,7 +636,7 @@
       "private": false,
       "open_issues": 4,
       "open_prs": 0,
-      "pushed_at": "2026-05-16T12:06:20Z",
+      "pushed_at": "2026-05-17T12:23:55Z",
       "created_at": "2024-03-14T12:01:45Z",
       "language": "Python",
       "stars": 1,
