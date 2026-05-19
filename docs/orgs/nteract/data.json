@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-05-18T07:31:20.088Z",
+  "fetched_at": "2026-05-19T07:20:18.988Z",
   "repos": [
     {
       "name": "hydrogen",
@@ -300,15 +300,15 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 1,
-      "pushed_at": "2026-05-18T06:59:07Z",
+      "open_prs": 0,
+      "pushed_at": "2026-05-19T03:30:26Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
       "stars": 2664,
       "release": {
-        "tag": "v3.5.2",
-        "published_at": "2026-05-12T22:38:37Z",
-        "url": "https://github.com/nteract/semiotic/releases/tag/v3.5.2"
+        "tag": "v3.5.3",
+        "published_at": "2026-05-19T03:50:00Z",
+        "url": "https://github.com/nteract/semiotic/releases/tag/v3.5.3"
       }
     },
     {
@@ -976,11 +976,11 @@
       "fork": false,
       "private": false,
       "open_issues": 19,
-      "open_prs": 3,
-      "pushed_at": "2026-05-17T20:56:46Z",
+      "open_prs": 4,
+      "pushed_at": "2026-05-19T03:11:30Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "Rust",
-      "stars": 111,
+      "stars": 113,
       "release": {
         "tag": "v2.4.8-stable.202605142308",
         "published_at": "2026-05-14T23:34:16Z",
@@ -1060,7 +1060,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-05-17T20:56:24Z",
+      "pushed_at": "2026-05-18T23:19:47Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 0,

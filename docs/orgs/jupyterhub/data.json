@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-05-18T07:31:16.104Z",
+  "fetched_at": "2026-05-19T07:20:15.196Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -14,7 +14,7 @@
       "pushed_at": "2026-05-13T21:46:44Z",
       "created_at": "2014-06-12T23:22:10Z",
       "language": "Python",
-      "stars": 8281,
+      "stars": 8283,
       "release": null
     },
     {
@@ -413,7 +413,7 @@
       "pushed_at": "2026-05-13T06:57:49Z",
       "created_at": "2017-04-10T19:25:35Z",
       "language": "Python",
-      "stars": 1707,
+      "stars": 1708,
       "release": {
         "tag": "4.3.5",
         "published_at": "2026-05-06T17:33:01Z",
@@ -432,7 +432,7 @@
       "pushed_at": "2026-05-13T06:58:37Z",
       "created_at": "2017-04-11T02:11:42Z",
       "language": null,
-      "stars": 216,
+      "stars": 217,
       "release": null
     },
     {
@@ -443,11 +443,11 @@
       "fork": false,
       "private": false,
       "open_issues": 227,
-      "open_prs": 32,
+      "open_prs": 33,
       "pushed_at": "2026-05-11T17:57:22Z",
       "created_at": "2017-04-26T00:28:26Z",
       "language": "Python",
-      "stars": 2668,
+      "stars": 2669,
       "release": null
     },
     {
@@ -458,8 +458,8 @@
       "fork": false,
       "private": false,
       "open_issues": 181,
-      "open_prs": 16,
-      "pushed_at": "2026-05-13T17:14:37Z",
+      "open_prs": 13,
+      "pushed_at": "2026-05-18T18:17:49Z",
       "created_at": "2017-05-09T08:36:30Z",
       "language": "Python",
       "stars": 1722,
@@ -477,8 +477,8 @@
       "fork": false,
       "private": false,
       "open_issues": 42,
-      "open_prs": 11,
-      "pushed_at": "2026-05-18T06:31:03Z",
+      "open_prs": 3,
+      "pushed_at": "2026-05-18T19:34:49Z",
       "created_at": "2017-05-22T19:17:42Z",
       "language": "Python",
       "stars": 83,
@@ -536,7 +536,7 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 151,
+      "open_issues": 152,
       "open_prs": 2,
       "pushed_at": "2026-05-11T22:00:20Z",
       "created_at": "2017-12-07T20:10:06Z",
@@ -654,7 +654,7 @@
       "pushed_at": "2026-05-04T20:55:38Z",
       "created_at": "2018-06-15T22:37:12Z",
       "language": "Python",
-      "stars": 1133,
+      "stars": 1134,
       "release": null
     },
     {
