@@ -1,6 +1,6 @@
 {
   "org": "pyladies",
-  "fetched_at": "2026-05-20T07:20:47.159Z",
+  "fetched_at": "2026-05-21T07:24:18.057Z",
   "repos": [
     {
       "name": "pyladies",
@@ -914,7 +914,7 @@
       "pushed_at": "2025-12-05T22:32:08Z",
       "created_at": "2024-08-26T22:20:56Z",
       "language": "Python",
-      "stars": 4,
+      "stars": 5,
       "release": null
     },
     {
