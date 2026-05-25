@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-05-24T07:12:05.585Z",
+  "fetched_at": "2026-05-25T07:41:53.435Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -14,7 +14,7 @@
       "pushed_at": "2026-05-22T20:07:10Z",
       "created_at": "2014-06-12T23:22:10Z",
       "language": "Python",
-      "stars": 8290,
+      "stars": 8292,
       "release": null
     },
     {
@@ -26,7 +26,7 @@
       "private": false,
       "open_issues": 13,
       "open_prs": 4,
-      "pushed_at": "2026-05-18T06:28:55Z",
+      "pushed_at": "2026-05-25T06:19:14Z",
       "created_at": "2014-08-25T22:28:59Z",
       "language": "JavaScript",
       "stars": 270,
@@ -138,7 +138,7 @@
       "pushed_at": "2026-05-04T20:57:21Z",
       "created_at": "2015-11-21T07:02:52Z",
       "language": "Python",
-      "stars": 600,
+      "stars": 601,
       "release": null
     },
     {
@@ -462,7 +462,7 @@
       "pushed_at": "2026-05-18T18:17:49Z",
       "created_at": "2017-05-09T08:36:30Z",
       "language": "Python",
-      "stars": 1724,
+      "stars": 1723,
       "release": {
         "tag": "2026.04.0",
         "published_at": "2026-04-23T14:56:16Z",
@@ -477,8 +477,8 @@
       "fork": false,
       "private": false,
       "open_issues": 44,
-      "open_prs": 4,
-      "pushed_at": "2026-05-22T18:36:24Z",
+      "open_prs": 9,
+      "pushed_at": "2026-05-25T06:21:34Z",
       "created_at": "2017-05-22T19:17:42Z",
       "language": "Python",
       "stars": 83,
@@ -804,7 +804,7 @@
       "fork": false,
       "private": false,
       "open_issues": 1,
-      "open_prs": 0,
+      "open_prs": 1,
       "pushed_at": "2026-05-17T21:22:33Z",
       "created_at": "2019-04-17T18:01:36Z",
       "language": "Python",
@@ -1188,8 +1188,8 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 1,
-      "pushed_at": "2026-05-20T22:36:11Z",
+      "open_prs": 2,
+      "pushed_at": "2026-05-25T06:35:24Z",
       "created_at": "2024-11-24T23:17:24Z",
       "language": "Dockerfile",
       "stars": 5,
