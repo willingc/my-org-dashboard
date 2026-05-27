@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-05-26T07:19:40.123Z",
+  "fetched_at": "2026-05-27T07:33:24.344Z",
   "repos": [
     {
       "name": "hydrogen",
@@ -14,7 +14,7 @@
       "pushed_at": "2026-03-07T02:10:46Z",
       "created_at": "2015-05-11T01:16:55Z",
       "language": "TypeScript",
-      "stars": 4012,
+      "stars": 4011,
       "release": {
         "tag": "v2.16.5",
         "published_at": "2023-01-10T01:02:49Z",
@@ -300,15 +300,15 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 6,
-      "pushed_at": "2026-05-26T06:10:02Z",
+      "open_prs": 0,
+      "pushed_at": "2026-05-27T02:35:07Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
-      "stars": 2665,
+      "stars": 2667,
       "release": {
-        "tag": "v3.5.4",
-        "published_at": "2026-05-22T04:38:02Z",
-        "url": "https://github.com/nteract/semiotic/releases/tag/v3.5.4"
+        "tag": "v3.6.0",
+        "published_at": "2026-05-26T22:25:22Z",
+        "url": "https://github.com/nteract/semiotic/releases/tag/v3.6.0"
       }
     },
     {
@@ -323,7 +323,7 @@
       "pushed_at": "2026-05-12T21:34:28Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6448,
+      "stars": 6449,
       "release": null
     },
     {
@@ -975,16 +975,16 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 12,
-      "open_prs": 2,
-      "pushed_at": "2026-05-26T04:59:57Z",
+      "open_issues": 13,
+      "open_prs": 0,
+      "pushed_at": "2026-05-26T19:55:28Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "Rust",
       "stars": 118,
       "release": {
-        "tag": "v2.4.8-stable.202605142308",
-        "published_at": "2026-05-14T23:34:16Z",
-        "url": "https://github.com/nteract/nteract/releases/tag/v2.4.8-stable.202605142308"
+        "tag": "v2.5.1-stable.202605261941",
+        "published_at": "2026-05-26T19:55:28Z",
+        "url": "https://github.com/nteract/nteract/releases/tag/v2.5.1-stable.202605261941"
       }
     },
     {
@@ -1060,7 +1060,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-05-26T04:59:21Z",
+      "pushed_at": "2026-05-26T19:54:15Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 0,
