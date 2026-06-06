@@ -1,6 +1,6 @@
 {
   "org": "pyopensci",
-  "fetched_at": "2026-06-05T07:36:10.354Z",
+  "fetched_at": "2026-06-06T07:10:00.117Z",
   "repos": [
     {
       "name": "pyApiToolkit",
@@ -135,7 +135,7 @@
       "pushed_at": "2026-06-02T22:59:45Z",
       "created_at": "2022-10-24T15:06:05Z",
       "language": "Python",
-      "stars": 147,
+      "stars": 148,
       "release": {
         "tag": "v0.4",
         "published_at": "2024-08-01T20:12:13Z",
