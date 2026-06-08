@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-06-07T07:29:39.629Z",
+  "fetched_at": "2026-06-08T07:50:29.749Z",
   "repos": [
     {
       "name": "hydrogen",
@@ -14,7 +14,7 @@
       "pushed_at": "2026-03-07T02:10:46Z",
       "created_at": "2015-05-11T01:16:55Z",
       "language": "TypeScript",
-      "stars": 4012,
+      "stars": 4013,
       "release": {
         "tag": "v2.16.5",
         "published_at": "2023-01-10T01:02:49Z",
@@ -241,7 +241,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 1,
-      "pushed_at": "2026-06-06T13:36:06Z",
+      "pushed_at": "2026-06-08T05:02:17Z",
       "created_at": "2016-09-25T21:08:32Z",
       "language": "TypeScript",
       "stars": 45,
@@ -274,7 +274,7 @@
       "pushed_at": "2026-05-14T14:55:36Z",
       "created_at": "2017-01-03T22:23:32Z",
       "language": "JavaScript",
-      "stars": 504,
+      "stars": 505,
       "release": null
     },
     {
@@ -301,14 +301,14 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-06-07T01:43:04Z",
+      "pushed_at": "2026-06-08T05:35:57Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
-      "stars": 2673,
+      "stars": 2674,
       "release": {
-        "tag": "v3.6.0",
-        "published_at": "2026-05-26T22:25:22Z",
-        "url": "https://github.com/nteract/semiotic/releases/tag/v3.6.0"
+        "tag": "v3.7.0",
+        "published_at": "2026-06-08T03:26:56Z",
+        "url": "https://github.com/nteract/semiotic/releases/tag/v3.7.0"
       }
     },
     {
@@ -323,7 +323,7 @@
       "pushed_at": "2026-05-12T21:34:28Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6448,
+      "stars": 6449,
       "release": null
     },
     {
@@ -368,7 +368,7 @@
       "pushed_at": "2023-03-25T23:44:20Z",
       "created_at": "2017-08-30T18:31:57Z",
       "language": "Jupyter Notebook",
-      "stars": 225,
+      "stars": 224,
       "release": {
         "tag": "0.5",
         "published_at": "2017-11-09T16:44:34Z",
@@ -977,7 +977,7 @@
       "private": false,
       "open_issues": 15,
       "open_prs": 3,
-      "pushed_at": "2026-06-07T03:10:01Z",
+      "pushed_at": "2026-06-08T05:14:51Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "Rust",
       "stars": 126,
@@ -1060,7 +1060,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-06-07T02:27:12Z",
+      "pushed_at": "2026-06-07T13:52:23Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 0,
