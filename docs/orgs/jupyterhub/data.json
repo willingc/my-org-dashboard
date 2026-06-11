@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-06-10T07:36:02.685Z",
+  "fetched_at": "2026-06-11T07:48:14.297Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -10,11 +10,11 @@
       "fork": false,
       "private": false,
       "open_issues": 187,
-      "open_prs": 11,
-      "pushed_at": "2026-06-08T19:30:24Z",
+      "open_prs": 9,
+      "pushed_at": "2026-06-10T21:10:34Z",
       "created_at": "2014-06-12T23:22:10Z",
       "language": "Python",
-      "stars": 8305,
+      "stars": 8307,
       "release": null
     },
     {
@@ -202,7 +202,7 @@
       "pushed_at": "2026-06-01T21:54:38Z",
       "created_at": "2016-04-14T13:53:14Z",
       "language": "Python",
-      "stars": 763,
+      "stars": 764,
       "release": null
     },
     {
@@ -307,8 +307,8 @@
       "fork": false,
       "private": false,
       "open_issues": 79,
-      "open_prs": 24,
-      "pushed_at": "2026-06-08T20:02:40Z",
+      "open_prs": 25,
+      "pushed_at": "2026-06-10T17:33:08Z",
       "created_at": "2016-10-18T22:02:06Z",
       "language": "Python",
       "stars": 397,
@@ -379,7 +379,7 @@
       "pushed_at": "2026-05-12T22:06:06Z",
       "created_at": "2016-12-09T06:26:18Z",
       "language": "Python",
-      "stars": 126,
+      "stars": 127,
       "release": {
         "tag": "v2.5.0",
         "published_at": "2026-04-28T19:47:28Z",
@@ -409,15 +409,15 @@
       "fork": false,
       "private": false,
       "open_issues": 119,
-      "open_prs": 16,
-      "pushed_at": "2026-06-06T06:22:01Z",
+      "open_prs": 15,
+      "pushed_at": "2026-06-10T22:19:51Z",
       "created_at": "2017-04-10T19:25:35Z",
       "language": "Python",
       "stars": 1713,
       "release": {
-        "tag": "4.3.5",
-        "published_at": "2026-05-06T17:33:01Z",
-        "url": "https://github.com/jupyterhub/zero-to-jupyterhub-k8s/releases/tag/4.3.5"
+        "tag": "4.4.0",
+        "published_at": "2026-06-10T22:19:59Z",
+        "url": "https://github.com/jupyterhub/zero-to-jupyterhub-k8s/releases/tag/4.4.0"
       }
     },
     {
@@ -429,7 +429,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-06-06T06:22:45Z",
+      "pushed_at": "2026-06-10T22:40:29Z",
       "created_at": "2017-04-11T02:11:42Z",
       "language": null,
       "stars": 217,
@@ -459,7 +459,7 @@
       "private": false,
       "open_issues": 181,
       "open_prs": 14,
-      "pushed_at": "2026-06-04T18:02:40Z",
+      "pushed_at": "2026-06-10T15:42:16Z",
       "created_at": "2017-05-09T08:36:30Z",
       "language": "Python",
       "stars": 1722,
@@ -478,7 +478,7 @@
       "private": false,
       "open_issues": 44,
       "open_prs": 9,
-      "pushed_at": "2026-06-09T06:22:53Z",
+      "pushed_at": "2026-06-11T06:33:02Z",
       "created_at": "2017-05-22T19:17:42Z",
       "language": "Python",
       "stars": 83,
@@ -654,7 +654,7 @@
       "pushed_at": "2026-06-01T21:53:22Z",
       "created_at": "2018-06-15T22:37:12Z",
       "language": "Python",
-      "stars": 1138,
+      "stars": 1139,
       "release": null
     },
     {
