@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-08-04T06:56:53.054Z",
+  "fetched_at": "2026-08-05T06:58:13.201Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -833,15 +833,15 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 5,
-      "pushed_at": "2026-08-04T06:39:15Z",
+      "open_prs": 0,
+      "pushed_at": "2026-08-05T03:02:26Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
-      "stars": 2690,
+      "stars": 2691,
       "release": {
-        "tag": "v3.8.7",
-        "published_at": "2026-07-28T15:42:22Z",
-        "url": "https://github.com/nteract/semiotic/releases/tag/v3.8.7"
+        "tag": "v3.8.9",
+        "published_at": "2026-08-05T03:19:48Z",
+        "url": "https://github.com/nteract/semiotic/releases/tag/v3.8.9"
       }
     },
     {
@@ -890,7 +890,7 @@
       "pushed_at": "2026-07-06T21:18:39Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6461,
+      "stars": 6462,
       "release": null
     },
     {
@@ -1882,7 +1882,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 1,
-      "pushed_at": "2026-08-04T03:14:08Z",
+      "pushed_at": "2026-08-04T23:12:57Z",
       "created_at": "2026-07-21T17:11:19Z",
       "language": "Rust",
       "stars": 0,
