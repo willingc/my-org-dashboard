@@ -1,6 +1,6 @@
 {
   "org": "pyopensci",
-  "fetched_at": "2026-08-05T06:58:02.508Z",
+  "fetched_at": "2026-08-06T06:58:12.104Z",
   "repos": [
     {
       "name": "pyApiToolkit",
@@ -25,7 +25,7 @@
       "fork": false,
       "private": false,
       "open_issues": 4,
-      "open_prs": 1,
+      "open_prs": 2,
       "pushed_at": "2026-06-08T21:44:15Z",
       "created_at": "2018-12-13T18:28:02Z",
       "language": "Python",
@@ -44,7 +44,7 @@
       "fork": false,
       "private": false,
       "open_issues": 25,
-      "open_prs": 2,
+      "open_prs": 4,
       "pushed_at": "2026-06-11T23:59:33Z",
       "created_at": "2019-01-15T16:33:36Z",
       "language": "CSS",
@@ -96,9 +96,9 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 14,
+      "open_issues": 15,
       "open_prs": 3,
-      "pushed_at": "2026-08-04T22:12:07Z",
+      "pushed_at": "2026-08-05T23:55:19Z",
       "created_at": "2019-03-07T20:09:41Z",
       "language": "HTML",
       "stars": 39,
@@ -131,8 +131,8 @@
       "fork": false,
       "private": false,
       "open_issues": 113,
-      "open_prs": 9,
-      "pushed_at": "2026-08-04T13:17:30Z",
+      "open_prs": 8,
+      "pushed_at": "2026-08-05T23:33:25Z",
       "created_at": "2022-10-24T15:06:05Z",
       "language": "Python",
       "stars": 153,
@@ -183,16 +183,16 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 11,
-      "open_prs": 3,
-      "pushed_at": "2026-08-01T21:31:19Z",
+      "open_issues": 14,
+      "open_prs": 2,
+      "pushed_at": "2026-08-05T23:09:54Z",
       "created_at": "2023-02-28T23:43:21Z",
       "language": "Python",
       "stars": 10,
       "release": {
-        "tag": "v1.7.8",
-        "published_at": "2026-06-15T05:52:15Z",
-        "url": "https://github.com/pyOpenSci/pyosMeta/releases/tag/v1.7.8"
+        "tag": "v1.7.9",
+        "published_at": "2026-08-05T22:44:35Z",
+        "url": "https://github.com/pyOpenSci/pyosMeta/releases/tag/v1.7.9"
       }
     },
     {

@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-08-05T06:58:13.201Z",
+  "fetched_at": "2026-08-06T06:58:23.288Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -833,8 +833,8 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 0,
-      "pushed_at": "2026-08-05T03:02:26Z",
+      "open_prs": 1,
+      "pushed_at": "2026-08-06T05:17:42Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
       "stars": 2691,
@@ -886,11 +886,11 @@
       "fork": false,
       "private": false,
       "open_issues": 145,
-      "open_prs": 45,
+      "open_prs": 44,
       "pushed_at": "2026-07-06T21:18:39Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6462,
+      "stars": 6465,
       "release": null
     },
     {
@@ -1692,9 +1692,9 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 26,
-      "open_prs": 15,
-      "pushed_at": "2026-08-04T01:36:22Z",
+      "open_issues": 27,
+      "open_prs": 14,
+      "pushed_at": "2026-08-06T00:02:17Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "TypeScript",
       "stars": 157,
