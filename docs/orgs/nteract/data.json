@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-08-07T06:27:31.121Z",
+  "fetched_at": "2026-08-08T06:17:29.211Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -833,8 +833,8 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 1,
-      "pushed_at": "2026-08-07T05:50:04Z",
+      "open_prs": 0,
+      "pushed_at": "2026-08-07T19:07:06Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
       "stars": 2691,
@@ -890,7 +890,7 @@
       "pushed_at": "2026-07-06T21:18:39Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6466,
+      "stars": 6465,
       "release": null
     },
     {
@@ -1693,8 +1693,8 @@
       "fork": false,
       "private": false,
       "open_issues": 27,
-      "open_prs": 16,
-      "pushed_at": "2026-08-06T22:30:57Z",
+      "open_prs": 18,
+      "pushed_at": "2026-08-08T04:52:58Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "TypeScript",
       "stars": 157,
@@ -1807,7 +1807,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-08-06T10:23:22Z",
+      "pushed_at": "2026-08-07T09:55:03Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 1,
@@ -1882,7 +1882,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 1,
-      "pushed_at": "2026-08-07T01:02:07Z",
+      "pushed_at": "2026-08-08T04:20:18Z",
       "created_at": "2026-07-21T17:11:19Z",
       "language": "Rust",
       "stars": 0,
