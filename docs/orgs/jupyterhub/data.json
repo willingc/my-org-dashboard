@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-08-08T06:17:21.663Z",
+  "fetched_at": "2026-08-09T06:18:39.516Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -578,7 +578,7 @@
       "stars": 10,
       "release": {
         "tag": "latest",
-        "published_at": "2026-08-02T00:24:51Z",
+        "published_at": "2026-08-09T00:10:57Z",
         "url": "https://github.com/jupyterhub/binder-data/releases/tag/latest"
       }
     },

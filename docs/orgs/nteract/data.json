@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-08-08T06:17:29.211Z",
+  "fetched_at": "2026-08-09T06:18:45.712Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -29,7 +29,7 @@
       "pushed_at": "2026-07-19T05:45:37Z",
       "created_at": "2015-05-11T01:16:55Z",
       "language": "TypeScript",
-      "stars": 4017,
+      "stars": 4018,
       "release": {
         "tag": "v2.16.5",
         "published_at": "2023-01-10T01:02:49Z",
@@ -935,7 +935,7 @@
       "pushed_at": "2023-03-25T23:44:20Z",
       "created_at": "2017-08-30T18:31:57Z",
       "language": "Jupyter Notebook",
-      "stars": 224,
+      "stars": 225,
       "release": {
         "tag": "0.5",
         "published_at": "2017-11-09T16:44:34Z",
@@ -1694,10 +1694,10 @@
       "private": false,
       "open_issues": 27,
       "open_prs": 18,
-      "pushed_at": "2026-08-08T04:52:58Z",
+      "pushed_at": "2026-08-08T09:53:19Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "TypeScript",
-      "stars": 157,
+      "stars": 158,
       "release": {
         "tag": "v2.6.2-stable.202606300322",
         "published_at": "2026-06-30T03:55:27Z",
@@ -1807,7 +1807,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-08-07T09:55:03Z",
+      "pushed_at": "2026-08-08T09:52:50Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 1,
@@ -1882,7 +1882,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 1,
-      "pushed_at": "2026-08-08T04:20:18Z",
+      "pushed_at": "2026-08-09T01:16:54Z",
       "created_at": "2026-07-21T17:11:19Z",
       "language": "Rust",
       "stars": 0,
