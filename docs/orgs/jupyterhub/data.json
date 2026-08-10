@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-08-09T06:18:39.516Z",
+  "fetched_at": "2026-08-10T06:33:01.881Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -409,8 +409,8 @@
       "fork": false,
       "private": false,
       "open_issues": 121,
-      "open_prs": 16,
-      "pushed_at": "2026-08-05T11:38:10Z",
+      "open_prs": 17,
+      "pushed_at": "2026-08-10T05:33:15Z",
       "created_at": "2017-04-10T19:25:35Z",
       "language": "Python",
       "stars": 1717,
@@ -477,8 +477,8 @@
       "fork": false,
       "private": false,
       "open_issues": 44,
-      "open_prs": 5,
-      "pushed_at": "2026-08-08T05:16:01Z",
+      "open_prs": 6,
+      "pushed_at": "2026-08-10T05:03:36Z",
       "created_at": "2017-05-22T19:17:42Z",
       "language": "Python",
       "stars": 83,
