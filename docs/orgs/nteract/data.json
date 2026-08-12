@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-08-11T06:21:44.234Z",
+  "fetched_at": "2026-08-12T06:32:51.175Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -680,7 +680,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 3,
-      "pushed_at": "2026-08-02T04:31:27Z",
+      "pushed_at": "2026-08-12T02:22:46Z",
       "created_at": "2016-09-25T21:08:32Z",
       "language": "TypeScript",
       "stars": 46,
@@ -833,8 +833,8 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 5,
-      "pushed_at": "2026-08-11T00:45:57Z",
+      "open_prs": 6,
+      "pushed_at": "2026-08-12T05:00:07Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
       "stars": 2691,
@@ -1517,7 +1517,7 @@
       "pushed_at": "2023-10-29T15:03:33Z",
       "created_at": "2020-03-19T03:40:06Z",
       "language": "TypeScript",
-      "stars": 28,
+      "stars": 27,
       "release": null
     },
     {
@@ -1693,8 +1693,8 @@
       "fork": false,
       "private": false,
       "open_issues": 27,
-      "open_prs": 16,
-      "pushed_at": "2026-08-11T05:57:25Z",
+      "open_prs": 14,
+      "pushed_at": "2026-08-11T23:32:07Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "TypeScript",
       "stars": 158,
@@ -1807,7 +1807,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-08-10T19:05:34Z",
+      "pushed_at": "2026-08-11T23:25:08Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 1,
