@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-08-16T06:09:48.445Z",
+  "fetched_at": "2026-08-17T06:13:43.378Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -409,8 +409,8 @@
       "fork": false,
       "private": false,
       "open_issues": 120,
-      "open_prs": 16,
-      "pushed_at": "2026-08-16T05:07:38Z",
+      "open_prs": 18,
+      "pushed_at": "2026-08-17T05:16:47Z",
       "created_at": "2017-04-10T19:25:35Z",
       "language": "Python",
       "stars": 1717,
@@ -477,8 +477,8 @@
       "fork": false,
       "private": false,
       "open_issues": 44,
-      "open_prs": 3,
-      "pushed_at": "2026-08-15T11:51:32Z",
+      "open_prs": 6,
+      "pushed_at": "2026-08-17T05:13:27Z",
       "created_at": "2017-05-22T19:17:42Z",
       "language": "Python",
       "stars": 83,
@@ -654,7 +654,7 @@
       "pushed_at": "2026-08-03T21:38:24Z",
       "created_at": "2018-06-15T22:37:12Z",
       "language": "Python",
-      "stars": 1144,
+      "stars": 1145,
       "release": null
     },
     {
@@ -1188,8 +1188,8 @@
       "fork": false,
       "private": false,
       "open_issues": 1,
-      "open_prs": 1,
-      "pushed_at": "2026-08-10T22:38:09Z",
+      "open_prs": 2,
+      "pushed_at": "2026-08-17T05:17:00Z",
       "created_at": "2024-11-24T23:17:24Z",
       "language": "Dockerfile",
       "stars": 5,
