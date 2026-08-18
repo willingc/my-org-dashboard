@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-08-17T06:13:51.037Z",
+  "fetched_at": "2026-08-18T06:10:36.630Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -29,7 +29,7 @@
       "pushed_at": "2026-07-19T05:45:37Z",
       "created_at": "2015-05-11T01:16:55Z",
       "language": "TypeScript",
-      "stars": 4017,
+      "stars": 4018,
       "release": {
         "tag": "v2.16.5",
         "published_at": "2023-01-10T01:02:49Z",
@@ -833,8 +833,8 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 1,
-      "pushed_at": "2026-08-17T05:24:37Z",
+      "open_prs": 5,
+      "pushed_at": "2026-08-18T04:46:31Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
       "stars": 2691,
@@ -890,7 +890,7 @@
       "pushed_at": "2026-07-06T21:18:39Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6469,
+      "stars": 6470,
       "release": null
     },
     {
@@ -1694,14 +1694,14 @@
       "private": false,
       "open_issues": 27,
       "open_prs": 5,
-      "pushed_at": "2026-08-16T22:08:14Z",
+      "pushed_at": "2026-08-18T00:07:47Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "TypeScript",
       "stars": 160,
       "release": {
-        "tag": "v2.6.2-stable.202606300322",
-        "published_at": "2026-06-30T03:55:27Z",
-        "url": "https://github.com/nteract/nteract/releases/tag/v2.6.2-stable.202606300322"
+        "tag": "v2.7.0-stable.202608172336",
+        "published_at": "2026-08-18T00:07:47Z",
+        "url": "https://github.com/nteract/nteract/releases/tag/v2.7.0-stable.202608172336"
       }
     },
     {
@@ -1807,7 +1807,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-08-16T09:41:32Z",
+      "pushed_at": "2026-08-18T00:06:51Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 1,
@@ -1881,8 +1881,8 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 1,
-      "pushed_at": "2026-08-14T17:50:00Z",
+      "open_prs": 0,
+      "pushed_at": "2026-08-17T20:31:26Z",
       "created_at": "2026-07-21T17:11:19Z",
       "language": "Rust",
       "stars": 0,

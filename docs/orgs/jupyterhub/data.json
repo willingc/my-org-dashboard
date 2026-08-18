@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-08-17T06:13:43.378Z",
+  "fetched_at": "2026-08-18T06:10:30.958Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -14,7 +14,7 @@
       "pushed_at": "2026-08-14T16:41:51Z",
       "created_at": "2014-06-12T23:22:10Z",
       "language": "Python",
-      "stars": 8328,
+      "stars": 8329,
       "release": null
     },
     {
@@ -59,7 +59,7 @@
       "pushed_at": "2026-08-03T21:30:13Z",
       "created_at": "2014-09-26T20:08:26Z",
       "language": "Python",
-      "stars": 543,
+      "stars": 544,
       "release": null
     },
     {
@@ -217,7 +217,7 @@
       "pushed_at": "2024-06-11T23:17:18Z",
       "created_at": "2016-04-14T13:56:15Z",
       "language": "Jinja",
-      "stars": 256,
+      "stars": 257,
       "release": null
     },
     {
@@ -311,7 +311,7 @@
       "pushed_at": "2026-08-11T17:06:04Z",
       "created_at": "2016-10-18T22:02:06Z",
       "language": "Python",
-      "stars": 400,
+      "stars": 401,
       "release": {
         "tag": "v0.8.8",
         "published_at": "2018-12-10T14:39:58Z",
@@ -409,11 +409,11 @@
       "fork": false,
       "private": false,
       "open_issues": 120,
-      "open_prs": 18,
-      "pushed_at": "2026-08-17T05:16:47Z",
+      "open_prs": 16,
+      "pushed_at": "2026-08-18T05:09:25Z",
       "created_at": "2017-04-10T19:25:35Z",
       "language": "Python",
-      "stars": 1717,
+      "stars": 1718,
       "release": {
         "tag": "4.4.1",
         "published_at": "2026-08-10T21:57:20Z",
@@ -429,7 +429,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-08-10T22:17:54Z",
+      "pushed_at": "2026-08-17T07:44:19Z",
       "created_at": "2017-04-11T02:11:42Z",
       "language": null,
       "stars": 218,
@@ -536,7 +536,7 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 152,
+      "open_issues": 153,
       "open_prs": 3,
       "pushed_at": "2026-08-14T15:52:11Z",
       "created_at": "2017-12-07T20:10:06Z",
