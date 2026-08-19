@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-08-18T06:10:36.630Z",
+  "fetched_at": "2026-08-19T06:11:27.603Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -29,7 +29,7 @@
       "pushed_at": "2026-07-19T05:45:37Z",
       "created_at": "2015-05-11T01:16:55Z",
       "language": "TypeScript",
-      "stars": 4018,
+      "stars": 4019,
       "release": {
         "tag": "v2.16.5",
         "published_at": "2023-01-10T01:02:49Z",
@@ -833,15 +833,15 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 5,
-      "pushed_at": "2026-08-18T04:46:31Z",
+      "open_prs": 1,
+      "pushed_at": "2026-08-18T22:35:19Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
       "stars": 2691,
       "release": {
-        "tag": "v3.8.9",
-        "published_at": "2026-08-05T03:19:48Z",
-        "url": "https://github.com/nteract/semiotic/releases/tag/v3.8.9"
+        "tag": "v3.9.0",
+        "published_at": "2026-08-18T23:12:45Z",
+        "url": "https://github.com/nteract/semiotic/releases/tag/v3.9.0"
       }
     },
     {
@@ -1693,8 +1693,8 @@
       "fork": false,
       "private": false,
       "open_issues": 27,
-      "open_prs": 5,
-      "pushed_at": "2026-08-18T00:07:47Z",
+      "open_prs": 4,
+      "pushed_at": "2026-08-19T02:02:15Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "TypeScript",
       "stars": 160,
@@ -1807,7 +1807,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-08-18T00:06:51Z",
+      "pushed_at": "2026-08-19T02:41:30Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 1,
