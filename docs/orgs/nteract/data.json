@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-08-20T06:11:29.510Z",
+  "fetched_at": "2026-08-21T06:12:05.664Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -29,7 +29,7 @@
       "pushed_at": "2026-07-19T05:45:37Z",
       "created_at": "2015-05-11T01:16:55Z",
       "language": "TypeScript",
-      "stars": 4019,
+      "stars": 4020,
       "release": {
         "tag": "v2.16.5",
         "published_at": "2023-01-10T01:02:49Z",
@@ -834,7 +834,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 1,
-      "pushed_at": "2026-08-20T03:37:39Z",
+      "pushed_at": "2026-08-21T05:17:26Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
       "stars": 2691,
@@ -890,7 +890,7 @@
       "pushed_at": "2026-07-06T21:18:39Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6472,
+      "stars": 6473,
       "release": null
     },
     {
@@ -1412,7 +1412,7 @@
       "pushed_at": "2024-08-25T01:24:05Z",
       "created_at": "2020-02-26T19:43:22Z",
       "language": "Python",
-      "stars": 435,
+      "stars": 434,
       "release": null
     },
     {
@@ -1693,8 +1693,8 @@
       "fork": false,
       "private": false,
       "open_issues": 27,
-      "open_prs": 4,
-      "pushed_at": "2026-08-19T22:21:26Z",
+      "open_prs": 6,
+      "pushed_at": "2026-08-21T01:30:39Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "TypeScript",
       "stars": 160,
@@ -1807,7 +1807,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-08-19T22:20:31Z",
+      "pushed_at": "2026-08-20T09:44:14Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 1,
