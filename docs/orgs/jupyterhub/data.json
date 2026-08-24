@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-08-23T06:10:08.705Z",
+  "fetched_at": "2026-08-24T06:16:30.957Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -477,8 +477,8 @@
       "fork": false,
       "private": false,
       "open_issues": 44,
-      "open_prs": 3,
-      "pushed_at": "2026-08-22T14:42:24Z",
+      "open_prs": 9,
+      "pushed_at": "2026-08-24T05:03:51Z",
       "created_at": "2017-05-22T19:17:42Z",
       "language": "Python",
       "stars": 83,
@@ -651,7 +651,7 @@
       "private": false,
       "open_issues": 135,
       "open_prs": 11,
-      "pushed_at": "2026-08-03T21:38:24Z",
+      "pushed_at": "2026-08-23T21:00:25Z",
       "created_at": "2018-06-15T22:37:12Z",
       "language": "Python",
       "stars": 1145,
@@ -1189,7 +1189,7 @@
       "private": false,
       "open_issues": 1,
       "open_prs": 2,
-      "pushed_at": "2026-08-17T05:17:00Z",
+      "pushed_at": "2026-08-24T05:18:19Z",
       "created_at": "2024-11-24T23:17:24Z",
       "language": "Dockerfile",
       "stars": 5,
@@ -1236,21 +1236,6 @@
       "open_prs": 1,
       "pushed_at": "2026-06-09T15:24:43Z",
       "created_at": "2026-06-02T19:00:07Z",
-      "language": null,
-      "stars": 0,
-      "release": null
-    },
-    {
-      "name": "jupyterhub-ghsa-c4gm-pwx9-9w8j",
-      "url": "https://github.com/jupyterhub/jupyterhub-ghsa-c4gm-pwx9-9w8j",
-      "description": null,
-      "archived": false,
-      "fork": false,
-      "private": true,
-      "open_issues": 0,
-      "open_prs": 0,
-      "pushed_at": "2026-08-10T20:19:35Z",
-      "created_at": "2026-07-27T23:06:42Z",
       "language": null,
       "stars": 0,
       "release": null
