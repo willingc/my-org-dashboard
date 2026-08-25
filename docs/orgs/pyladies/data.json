@@ -1,6 +1,6 @@
 {
   "org": "pyladies",
-  "fetched_at": "2026-08-24T06:16:40.822Z",
+  "fetched_at": "2026-08-25T06:11:49.873Z",
   "repos": [
     {
       "name": "pyladies",
@@ -459,7 +459,7 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 4,
+      "open_issues": 5,
       "open_prs": 0,
       "pushed_at": "2025-08-12T18:57:08Z",
       "created_at": "2020-07-02T01:33:50Z",
@@ -851,7 +851,7 @@
       "private": false,
       "open_issues": 18,
       "open_prs": 1,
-      "pushed_at": "2026-04-15T13:25:49Z",
+      "pushed_at": "2026-08-24T22:13:39Z",
       "created_at": "2023-05-11T19:18:20Z",
       "language": "MDX",
       "stars": 5,
@@ -986,7 +986,7 @@
       "private": false,
       "open_issues": 13,
       "open_prs": 0,
-      "pushed_at": "2025-12-22T20:08:11Z",
+      "pushed_at": "2026-08-24T19:14:42Z",
       "created_at": "2025-04-03T18:31:13Z",
       "language": "Astro",
       "stars": 16,

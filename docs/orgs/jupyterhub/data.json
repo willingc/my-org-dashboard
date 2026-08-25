@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-08-24T06:16:30.957Z",
+  "fetched_at": "2026-08-25T06:11:40.029Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -9,12 +9,12 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 188,
-      "open_prs": 11,
-      "pushed_at": "2026-08-20T20:52:44Z",
+      "open_issues": 185,
+      "open_prs": 9,
+      "pushed_at": "2026-08-24T21:48:18Z",
       "created_at": "2014-06-12T23:22:10Z",
       "language": "Python",
-      "stars": 8328,
+      "stars": 8329,
       "release": null
     },
     {
@@ -138,7 +138,7 @@
       "pushed_at": "2026-08-10T16:36:31Z",
       "created_at": "2015-11-21T07:02:52Z",
       "language": "Python",
-      "stars": 607,
+      "stars": 608,
       "release": null
     },
     {
@@ -409,8 +409,8 @@
       "fork": false,
       "private": false,
       "open_issues": 120,
-      "open_prs": 16,
-      "pushed_at": "2026-08-21T18:02:10Z",
+      "open_prs": 17,
+      "pushed_at": "2026-08-25T05:11:08Z",
       "created_at": "2017-04-10T19:25:35Z",
       "language": "Python",
       "stars": 1718,
@@ -477,8 +477,8 @@
       "fork": false,
       "private": false,
       "open_issues": 44,
-      "open_prs": 9,
-      "pushed_at": "2026-08-24T05:03:51Z",
+      "open_prs": 3,
+      "pushed_at": "2026-08-24T21:25:02Z",
       "created_at": "2017-05-22T19:17:42Z",
       "language": "Python",
       "stars": 83,
@@ -650,8 +650,8 @@
       "fork": false,
       "private": false,
       "open_issues": 135,
-      "open_prs": 11,
-      "pushed_at": "2026-08-23T21:00:25Z",
+      "open_prs": 10,
+      "pushed_at": "2026-08-24T21:20:23Z",
       "created_at": "2018-06-15T22:37:12Z",
       "language": "Python",
       "stars": 1145,
@@ -1192,7 +1192,7 @@
       "pushed_at": "2026-08-24T05:18:19Z",
       "created_at": "2024-11-24T23:17:24Z",
       "language": "Dockerfile",
-      "stars": 5,
+      "stars": 6,
       "release": null
     },
     {
@@ -1241,16 +1241,16 @@
       "release": null
     },
     {
-      "name": "jupyterhub-ghsa-69wv-m5fw-2fhp",
-      "url": "https://github.com/jupyterhub/jupyterhub-ghsa-69wv-m5fw-2fhp",
+      "name": "jupyterhub-ghsa-mj6q-mp44-53v8",
+      "url": "https://github.com/jupyterhub/jupyterhub-ghsa-mj6q-mp44-53v8",
       "description": null,
       "archived": false,
       "fork": false,
       "private": true,
       "open_issues": 0,
-      "open_prs": 0,
-      "pushed_at": "2026-08-10T21:00:05Z",
-      "created_at": "2026-08-03T16:07:16Z",
+      "open_prs": 1,
+      "pushed_at": "2026-08-24T20:38:51Z",
+      "created_at": "2026-08-24T19:59:18Z",
       "language": null,
       "stars": 0,
       "release": null
