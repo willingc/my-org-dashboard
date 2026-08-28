@@ -1,6 +1,6 @@
 {
   "org": "python",
-  "fetched_at": "2026-08-27T09:10:18.067Z",
+  "fetched_at": "2026-08-28T09:14:15.854Z",
   "repos": [
     {
       "name": "getpython3.com",
@@ -14,7 +14,7 @@
       "pushed_at": "2018-06-08T16:26:41Z",
       "created_at": "2011-09-28T12:30:52Z",
       "language": "CSS",
-      "stars": 46,
+      "stars": 47,
       "release": null
     },
     {
@@ -29,7 +29,7 @@
       "pushed_at": "2013-01-22T18:33:31Z",
       "created_at": "2012-03-12T19:23:37Z",
       "language": "Python",
-      "stars": 50,
+      "stars": 51,
       "release": null
     },
     {
@@ -44,7 +44,7 @@
       "pushed_at": "2015-08-13T09:51:44Z",
       "created_at": "2012-05-06T14:19:20Z",
       "language": "Python",
-      "stars": 22,
+      "stars": 23,
       "release": null
     },
     {
@@ -59,7 +59,7 @@
       "pushed_at": "2012-05-11T16:33:10Z",
       "created_at": "2012-05-11T16:15:38Z",
       "language": "Python",
-      "stars": 22,
+      "stars": 23,
       "release": null
     },
     {
@@ -74,7 +74,7 @@
       "pushed_at": "2020-02-13T13:34:53Z",
       "created_at": "2012-05-21T02:31:56Z",
       "language": "Ruby",
-      "stars": 46,
+      "stars": 47,
       "release": null
     },
     {
@@ -89,7 +89,7 @@
       "pushed_at": "2012-10-05T17:31:05Z",
       "created_at": "2012-08-31T15:19:30Z",
       "language": "Shell",
-      "stars": 7,
+      "stars": 8,
       "release": null
     },
     {
@@ -100,11 +100,11 @@
       "fork": false,
       "private": false,
       "open_issues": 47,
-      "open_prs": 39,
+      "open_prs": 38,
       "pushed_at": "2026-08-27T08:06:45Z",
       "created_at": "2012-10-08T16:00:15Z",
       "language": "Python",
-      "stars": 1656,
+      "stars": 1657,
       "release": null
     },
     {
@@ -115,11 +115,11 @@
       "fork": false,
       "private": false,
       "open_issues": 2720,
-      "open_prs": 482,
-      "pushed_at": "2026-08-27T06:38:24Z",
+      "open_prs": 484,
+      "pushed_at": "2026-08-28T01:13:53Z",
       "created_at": "2012-12-07T13:30:23Z",
       "language": "Python",
-      "stars": 20605,
+      "stars": 20615,
       "release": null
     },
     {
@@ -134,7 +134,7 @@
       "pushed_at": "2014-04-22T15:28:51Z",
       "created_at": "2013-01-11T21:29:18Z",
       "language": "Python",
-      "stars": 228,
+      "stars": 229,
       "release": {
         "tag": "0.3",
         "published_at": "2013-09-05T17:24:40Z",
@@ -153,7 +153,7 @@
       "pushed_at": "2019-05-07T13:22:10Z",
       "created_at": "2013-03-21T14:08:58Z",
       "language": null,
-      "stars": 117,
+      "stars": 118,
       "release": null
     },
     {
@@ -165,10 +165,10 @@
       "private": false,
       "open_issues": 21,
       "open_prs": 41,
-      "pushed_at": "2026-08-24T09:50:34Z",
+      "pushed_at": "2026-08-27T12:45:44Z",
       "created_at": "2013-10-08T13:27:12Z",
       "language": "reStructuredText",
-      "stars": 4996,
+      "stars": 4997,
       "release": null
     },
     {
@@ -183,7 +183,7 @@
       "pushed_at": "2026-08-25T15:50:58Z",
       "created_at": "2014-08-22T22:49:43Z",
       "language": "Hurl",
-      "stars": 123,
+      "stars": 124,
       "release": null
     },
     {
@@ -198,7 +198,7 @@
       "pushed_at": "2026-08-21T09:06:06Z",
       "created_at": "2014-09-01T19:29:17Z",
       "language": "Python",
-      "stars": 84,
+      "stars": 85,
       "release": null
     },
     {
@@ -213,7 +213,7 @@
       "pushed_at": "2026-08-09T10:37:29Z",
       "created_at": "2014-09-19T04:26:25Z",
       "language": "Python",
-      "stars": 143,
+      "stars": 144,
       "release": null
     },
     {
@@ -224,11 +224,11 @@
       "fork": false,
       "private": false,
       "open_issues": 202,
-      "open_prs": 22,
-      "pushed_at": "2026-08-26T00:42:33Z",
+      "open_prs": 23,
+      "pushed_at": "2026-08-27T18:25:14Z",
       "created_at": "2014-09-29T16:54:42Z",
       "language": "Python",
-      "stars": 1779,
+      "stars": 1780,
       "release": null
     },
     {
@@ -243,7 +243,7 @@
       "pushed_at": "2016-09-07T20:52:25Z",
       "created_at": "2014-12-18T19:48:53Z",
       "language": "HTML",
-      "stars": 14,
+      "stars": 15,
       "release": null
     },
     {
@@ -253,12 +253,12 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 210,
-      "open_prs": 161,
+      "open_issues": 212,
+      "open_prs": 162,
       "pushed_at": "2026-08-27T07:24:24Z",
       "created_at": "2015-03-05T04:51:28Z",
       "language": "Python",
-      "stars": 5114,
+      "stars": 5115,
       "release": null
     },
     {
@@ -273,7 +273,7 @@
       "pushed_at": "2021-04-28T17:37:52Z",
       "created_at": "2015-04-10T16:41:54Z",
       "language": null,
-      "stars": 1080,
+      "stars": 1081,
       "release": null
     },
     {
@@ -288,7 +288,7 @@
       "pushed_at": "2017-02-08T05:41:03Z",
       "created_at": "2015-08-17T16:56:20Z",
       "language": "Python",
-      "stars": 7,
+      "stars": 8,
       "release": null
     },
     {
@@ -303,7 +303,7 @@
       "pushed_at": "2024-07-09T16:23:07Z",
       "created_at": "2015-10-05T17:13:37Z",
       "language": "HTML",
-      "stars": 8,
+      "stars": 9,
       "release": null
     },
     {
@@ -318,7 +318,7 @@
       "pushed_at": "2023-07-03T22:56:14Z",
       "created_at": "2016-02-16T22:40:09Z",
       "language": "C",
-      "stars": 233,
+      "stars": 234,
       "release": null
     },
     {
@@ -333,7 +333,7 @@
       "pushed_at": "2022-07-07T21:00:51Z",
       "created_at": "2016-03-28T16:39:27Z",
       "language": "Python",
-      "stars": 86,
+      "stars": 87,
       "release": null
     },
     {
@@ -348,7 +348,7 @@
       "pushed_at": "2016-05-09T19:23:54Z",
       "created_at": "2016-05-08T20:03:52Z",
       "language": "Python",
-      "stars": 18,
+      "stars": 19,
       "release": null
     },
     {
@@ -363,7 +363,7 @@
       "pushed_at": "2026-07-31T10:13:32Z",
       "created_at": "2016-06-02T21:42:55Z",
       "language": "HTML",
-      "stars": 14,
+      "stars": 15,
       "release": null
     },
     {
@@ -378,7 +378,7 @@
       "pushed_at": "2022-04-09T16:53:15Z",
       "created_at": "2016-06-15T18:10:10Z",
       "language": "HTML",
-      "stars": 32,
+      "stars": 33,
       "release": null
     },
     {
@@ -393,7 +393,7 @@
       "pushed_at": "2016-06-18T16:27:14Z",
       "created_at": "2016-06-18T16:26:09Z",
       "language": "Python",
-      "stars": 9,
+      "stars": 10,
       "release": null
     },
     {
@@ -408,7 +408,7 @@
       "pushed_at": "2026-08-26T22:19:41Z",
       "created_at": "2016-07-22T17:48:56Z",
       "language": "Python",
-      "stars": 2103,
+      "stars": 2104,
       "release": null
     },
     {
@@ -423,7 +423,7 @@
       "pushed_at": "2023-12-02T16:53:56Z",
       "created_at": "2016-08-17T14:22:49Z",
       "language": null,
-      "stars": 5,
+      "stars": 6,
       "release": null
     },
     {
@@ -438,7 +438,7 @@
       "pushed_at": "2026-08-17T18:19:58Z",
       "created_at": "2016-08-17T23:43:22Z",
       "language": "Python",
-      "stars": 1027,
+      "stars": 1028,
       "release": {
         "tag": "1.14.0",
         "published_at": "2026-02-07T12:10:51Z",
@@ -457,7 +457,7 @@
       "pushed_at": "2026-08-05T13:17:28Z",
       "created_at": "2016-09-05T18:25:11Z",
       "language": "Python",
-      "stars": 61,
+      "stars": 62,
       "release": null
     },
     {
@@ -472,7 +472,7 @@
       "pushed_at": "2025-10-01T09:32:20Z",
       "created_at": "2016-12-10T00:36:07Z",
       "language": "Python",
-      "stars": 103,
+      "stars": 104,
       "release": {
         "tag": "cherry-picker-v1.3.2",
         "published_at": "2019-05-27T23:45:31Z",
@@ -488,10 +488,10 @@
       "private": false,
       "open_issues": 5,
       "open_prs": 1,
-      "pushed_at": "2026-08-20T14:49:43Z",
+      "pushed_at": "2026-08-27T14:37:55Z",
       "created_at": "2017-01-31T03:29:06Z",
       "language": "Python",
-      "stars": 61,
+      "stars": 62,
       "release": null
     },
     {
@@ -502,11 +502,11 @@
       "fork": false,
       "private": false,
       "open_issues": 7053,
-      "open_prs": 2564,
-      "pushed_at": "2026-08-27T02:17:13Z",
+      "open_prs": 2559,
+      "pushed_at": "2026-08-28T09:13:31Z",
       "created_at": "2017-02-10T19:23:51Z",
       "language": "Python",
-      "stars": 75007,
+      "stars": 75024,
       "release": null
     },
     {
@@ -521,7 +521,7 @@
       "pushed_at": "2022-01-27T09:32:25Z",
       "created_at": "2017-02-26T20:47:20Z",
       "language": "Python",
-      "stars": 14,
+      "stars": 15,
       "release": null
     },
     {
@@ -536,7 +536,7 @@
       "pushed_at": "2026-08-01T10:40:32Z",
       "created_at": "2017-04-07T18:15:00Z",
       "language": "Python",
-      "stars": 140,
+      "stars": 141,
       "release": null
     },
     {
@@ -551,7 +551,7 @@
       "pushed_at": "2026-08-27T00:45:23Z",
       "created_at": "2017-05-22T17:20:29Z",
       "language": null,
-      "stars": 28,
+      "stars": 29,
       "release": null
     },
     {
@@ -566,7 +566,7 @@
       "pushed_at": "2026-07-21T19:19:42Z",
       "created_at": "2017-05-22T17:22:58Z",
       "language": null,
-      "stars": 30,
+      "stars": 31,
       "release": {
         "tag": "llvm-21.1.4.0",
         "published_at": "2025-11-03T23:56:00Z",
@@ -585,7 +585,7 @@
       "pushed_at": "2026-07-10T18:24:15Z",
       "created_at": "2017-05-22T20:40:58Z",
       "language": null,
-      "stars": 354,
+      "stars": 355,
       "release": null
     },
     {
@@ -600,7 +600,7 @@
       "pushed_at": "2026-08-21T03:31:22Z",
       "created_at": "2017-06-04T21:14:32Z",
       "language": "CSS",
-      "stars": 89,
+      "stars": 90,
       "release": {
         "tag": "2026.7",
         "published_at": "2026-07-27T20:11:23Z",
@@ -616,10 +616,10 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-08-25T15:23:01Z",
+      "pushed_at": "2026-08-28T02:44:41Z",
       "created_at": "2017-06-11T13:32:05Z",
       "language": null,
-      "stars": 12,
+      "stars": 13,
       "release": null
     },
     {
@@ -631,10 +631,10 @@
       "private": false,
       "open_issues": 3,
       "open_prs": 0,
-      "pushed_at": "2026-08-27T00:56:41Z",
+      "pushed_at": "2026-08-28T02:21:54Z",
       "created_at": "2017-06-11T13:33:21Z",
       "language": "Makefile",
-      "stars": 73,
+      "stars": 74,
       "release": null
     },
     {
@@ -649,7 +649,7 @@
       "pushed_at": "2025-05-25T06:27:56Z",
       "created_at": "2017-06-11T13:34:47Z",
       "language": "Makefile",
-      "stars": 5,
+      "stars": 6,
       "release": null
     },
     {
@@ -661,10 +661,10 @@
       "private": false,
       "open_issues": 13,
       "open_prs": 4,
-      "pushed_at": "2026-08-25T23:58:44Z",
+      "pushed_at": "2026-08-28T02:14:23Z",
       "created_at": "2017-06-22T21:33:42Z",
       "language": "Python",
-      "stars": 161,
+      "stars": 162,
       "release": null
     },
     {
@@ -679,7 +679,7 @@
       "pushed_at": "2022-04-08T09:26:49Z",
       "created_at": "2017-06-23T02:32:37Z",
       "language": null,
-      "stars": 11,
+      "stars": 12,
       "release": null
     },
     {
@@ -694,7 +694,7 @@
       "pushed_at": "2017-08-10T04:11:18Z",
       "created_at": "2017-08-05T21:57:14Z",
       "language": "Go",
-      "stars": 18,
+      "stars": 19,
       "release": null
     },
     {
@@ -709,7 +709,7 @@
       "pushed_at": "2017-08-15T10:53:54Z",
       "created_at": "2017-08-15T10:53:53Z",
       "language": null,
-      "stars": 8,
+      "stars": 9,
       "release": null
     },
     {
@@ -724,7 +724,7 @@
       "pushed_at": "2017-08-20T03:14:13Z",
       "created_at": "2017-08-17T16:27:10Z",
       "language": null,
-      "stars": 13,
+      "stars": 14,
       "release": null
     },
     {
@@ -739,7 +739,7 @@
       "pushed_at": "2026-08-01T14:09:34Z",
       "created_at": "2017-09-05T17:06:04Z",
       "language": "Python",
-      "stars": 115,
+      "stars": 116,
       "release": null
     },
     {
@@ -754,7 +754,7 @@
       "pushed_at": "2018-05-18T23:29:39Z",
       "created_at": "2017-12-15T08:00:38Z",
       "language": "Python",
-      "stars": 7,
+      "stars": 8,
       "release": null
     },
     {
@@ -769,7 +769,7 @@
       "pushed_at": "2026-08-22T05:40:32Z",
       "created_at": "2018-01-12T13:07:00Z",
       "language": null,
-      "stars": 76,
+      "stars": 77,
       "release": null
     },
     {
@@ -784,7 +784,7 @@
       "pushed_at": "2018-03-28T16:47:38Z",
       "created_at": "2018-03-28T16:12:03Z",
       "language": null,
-      "stars": 11,
+      "stars": 12,
       "release": null
     },
     {
@@ -799,7 +799,7 @@
       "pushed_at": "2018-06-26T13:16:57Z",
       "created_at": "2018-06-15T13:23:47Z",
       "language": null,
-      "stars": 12,
+      "stars": 13,
       "release": null
     },
     {
@@ -811,10 +811,10 @@
       "private": false,
       "open_issues": 32,
       "open_prs": 13,
-      "pushed_at": "2026-08-25T00:18:09Z",
+      "pushed_at": "2026-08-28T02:55:13Z",
       "created_at": "2018-06-24T06:19:52Z",
       "language": "Python",
-      "stars": 280,
+      "stars": 281,
       "release": null
     },
     {
@@ -829,7 +829,7 @@
       "pushed_at": "2026-08-04T18:58:20Z",
       "created_at": "2018-09-12T00:53:09Z",
       "language": "Python",
-      "stars": 32,
+      "stars": 33,
       "release": null
     },
     {
@@ -841,10 +841,10 @@
       "private": false,
       "open_issues": 5,
       "open_prs": 3,
-      "pushed_at": "2026-08-27T04:38:25Z",
+      "pushed_at": "2026-08-28T04:59:25Z",
       "created_at": "2018-10-22T13:03:51Z",
       "language": null,
-      "stars": 467,
+      "stars": 468,
       "release": null
     },
     {
@@ -874,7 +874,7 @@
       "pushed_at": "2025-04-22T15:04:03Z",
       "created_at": "2019-01-14T23:37:26Z",
       "language": "Python",
-      "stars": 154,
+      "stars": 155,
       "release": null
     },
     {
@@ -889,7 +889,7 @@
       "pushed_at": "2026-04-17T16:04:15Z",
       "created_at": "2019-02-12T19:18:46Z",
       "language": "Makefile",
-      "stars": 180,
+      "stars": 181,
       "release": null
     },
     {
@@ -904,7 +904,7 @@
       "pushed_at": "2026-07-17T11:12:47Z",
       "created_at": "2019-02-22T10:53:30Z",
       "language": "Python",
-      "stars": 39,
+      "stars": 40,
       "release": null
     },
     {
@@ -919,7 +919,7 @@
       "pushed_at": "2024-06-18T22:26:00Z",
       "created_at": "2019-04-21T15:55:34Z",
       "language": null,
-      "stars": 15,
+      "stars": 16,
       "release": null
     },
     {
@@ -934,7 +934,7 @@
       "pushed_at": "2026-08-02T23:06:09Z",
       "created_at": "2019-05-06T15:33:13Z",
       "language": "Python",
-      "stars": 365,
+      "stars": 366,
       "release": null
     },
     {
@@ -949,7 +949,7 @@
       "pushed_at": "2026-08-01T11:01:16Z",
       "created_at": "2019-05-30T20:49:46Z",
       "language": "Python",
-      "stars": 64,
+      "stars": 65,
       "release": {
         "tag": "cherry-picker-v2.6.0",
         "published_at": "2025-08-21T12:00:22Z",
@@ -968,7 +968,7 @@
       "pushed_at": "2026-07-09T18:58:46Z",
       "created_at": "2019-05-31T01:27:21Z",
       "language": null,
-      "stars": 13,
+      "stars": 14,
       "release": null
     },
     {
@@ -980,10 +980,10 @@
       "private": false,
       "open_issues": 2,
       "open_prs": 3,
-      "pushed_at": "2026-08-26T00:18:12Z",
+      "pushed_at": "2026-08-28T02:55:36Z",
       "created_at": "2019-10-10T00:18:41Z",
       "language": "Python",
-      "stars": 80,
+      "stars": 81,
       "release": null
     },
     {
@@ -995,10 +995,10 @@
       "private": false,
       "open_issues": 4,
       "open_prs": 1,
-      "pushed_at": "2026-08-26T22:05:45Z",
+      "pushed_at": "2026-08-28T03:26:47Z",
       "created_at": "2019-12-10T23:37:12Z",
       "language": "Python",
-      "stars": 57,
+      "stars": 58,
       "release": null
     },
     {
@@ -1013,7 +1013,7 @@
       "pushed_at": "2021-02-19T10:02:17Z",
       "created_at": "2019-12-16T19:41:57Z",
       "language": null,
-      "stars": 22,
+      "stars": 23,
       "release": null
     },
     {
@@ -1028,7 +1028,7 @@
       "pushed_at": "2021-05-12T21:47:46Z",
       "created_at": "2020-02-02T19:09:38Z",
       "language": null,
-      "stars": 10,
+      "stars": 11,
       "release": null
     },
     {
@@ -1043,7 +1043,7 @@
       "pushed_at": "2026-08-04T09:44:35Z",
       "created_at": "2020-02-21T14:32:53Z",
       "language": "Python",
-      "stars": 113,
+      "stars": 114,
       "release": {
         "tag": "2026.3",
         "published_at": "2026-07-10T08:44:27Z",
@@ -1062,7 +1062,7 @@
       "pushed_at": "2026-03-19T11:10:30Z",
       "created_at": "2020-06-04T17:09:06Z",
       "language": "C++",
-      "stars": 109,
+      "stars": 110,
       "release": null
     },
     {
@@ -1077,7 +1077,7 @@
       "pushed_at": "2020-10-23T13:20:02Z",
       "created_at": "2020-08-07T20:19:04Z",
       "language": "Python",
-      "stars": 17,
+      "stars": 18,
       "release": null
     },
     {
@@ -1088,11 +1088,11 @@
       "fork": false,
       "private": false,
       "open_issues": 5,
-      "open_prs": 3,
+      "open_prs": 4,
       "pushed_at": "2026-04-13T23:37:11Z",
       "created_at": "2020-10-21T21:02:58Z",
       "language": "Python",
-      "stars": 73,
+      "stars": 74,
       "release": {
         "tag": "v7.1.0",
         "published_at": "2026-04-12T16:36:13Z",
@@ -1111,7 +1111,7 @@
       "pushed_at": "2026-07-16T01:36:08Z",
       "created_at": "2020-10-22T20:13:11Z",
       "language": "Python",
-      "stars": 141,
+      "stars": 142,
       "release": {
         "tag": "v8.9.0",
         "published_at": "2026-03-20T16:56:31Z",
@@ -1130,7 +1130,7 @@
       "pushed_at": "2025-06-23T14:27:31Z",
       "created_at": "2020-11-01T21:41:47Z",
       "language": "Python",
-      "stars": 5,
+      "stars": 6,
       "release": null
     },
     {
@@ -1145,7 +1145,7 @@
       "pushed_at": "2021-01-14T19:23:57Z",
       "created_at": "2021-01-14T17:01:30Z",
       "language": null,
-      "stars": 7,
+      "stars": 8,
       "release": null
     },
     {
@@ -1156,11 +1156,11 @@
       "fork": false,
       "private": false,
       "open_issues": 21,
-      "open_prs": 1,
-      "pushed_at": "2026-08-11T09:53:30Z",
+      "open_prs": 0,
+      "pushed_at": "2026-08-28T09:12:24Z",
       "created_at": "2021-04-16T18:19:40Z",
       "language": "Makefile",
-      "stars": 54,
+      "stars": 55,
       "release": null
     },
     {
@@ -1175,7 +1175,7 @@
       "pushed_at": "2023-07-08T13:10:22Z",
       "created_at": "2021-07-24T05:21:05Z",
       "language": "Python",
-      "stars": 24,
+      "stars": 25,
       "release": null
     },
     {
@@ -1190,7 +1190,7 @@
       "pushed_at": "2026-08-01T00:39:44Z",
       "created_at": "2021-12-18T13:34:26Z",
       "language": "Python",
-      "stars": 129,
+      "stars": 130,
       "release": null
     },
     {
@@ -1205,7 +1205,7 @@
       "pushed_at": "2026-08-25T05:42:10Z",
       "created_at": "2022-05-19T13:12:25Z",
       "language": "Python",
-      "stars": 582,
+      "stars": 583,
       "release": {
         "tag": "4.16.0",
         "published_at": "2026-07-02T08:38:39Z",
@@ -1224,7 +1224,7 @@
       "pushed_at": "2025-05-01T20:59:48Z",
       "created_at": "2022-06-16T22:26:58Z",
       "language": "Makefile",
-      "stars": 32,
+      "stars": 33,
       "release": null
     },
     {
@@ -1234,12 +1234,12 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 4,
+      "open_issues": 5,
       "open_prs": 0,
       "pushed_at": "2026-08-06T12:28:02Z",
       "created_at": "2023-11-28T00:34:08Z",
       "language": null,
-      "stars": 56,
+      "stars": 57,
       "release": null
     },
     {
@@ -1251,10 +1251,10 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-08-27T01:16:11Z",
+      "pushed_at": "2026-08-28T02:38:05Z",
       "created_at": "2023-12-25T11:39:35Z",
       "language": null,
-      "stars": 17,
+      "stars": 18,
       "release": null
     },
     {
@@ -1269,7 +1269,7 @@
       "pushed_at": "2026-06-15T20:38:07Z",
       "created_at": "2024-01-08T23:57:46Z",
       "language": "HTML",
-      "stars": 12,
+      "stars": 13,
       "release": null
     },
     {
@@ -1284,7 +1284,7 @@
       "pushed_at": "2026-07-24T15:36:09Z",
       "created_at": "2024-03-14T12:05:47Z",
       "language": "Python",
-      "stars": 29,
+      "stars": 30,
       "release": null
     },
     {
@@ -1294,16 +1294,16 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 3,
+      "open_issues": 1,
       "open_prs": 4,
-      "pushed_at": "2026-08-25T12:27:39Z",
+      "pushed_at": "2026-08-27T15:31:49Z",
       "created_at": "2024-03-20T15:41:45Z",
       "language": "Python",
-      "stars": 20,
+      "stars": 21,
       "release": {
-        "tag": "v2.0.0",
-        "published_at": "2025-01-15T12:48:00Z",
-        "url": "https://github.com/python/blurb/releases/tag/v2.0.0"
+        "tag": "v2.1.0",
+        "published_at": "2026-08-27T15:31:49Z",
+        "url": "https://github.com/python/blurb/releases/tag/v2.1.0"
       }
     },
     {
@@ -1318,7 +1318,7 @@
       "pushed_at": "2024-06-26T16:30:52Z",
       "created_at": "2024-06-25T15:03:10Z",
       "language": "Python",
-      "stars": 3,
+      "stars": 4,
       "release": null
     },
     {
@@ -1333,7 +1333,7 @@
       "pushed_at": "2026-08-24T16:02:08Z",
       "created_at": "2024-06-27T20:31:00Z",
       "language": "Python",
-      "stars": 5,
+      "stars": 6,
       "release": null
     },
     {
@@ -1348,7 +1348,7 @@
       "pushed_at": "2026-08-04T19:54:19Z",
       "created_at": "2024-09-23T17:42:22Z",
       "language": "Dockerfile",
-      "stars": 15,
+      "stars": 16,
       "release": null
     },
     {
@@ -1359,11 +1359,11 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 0,
-      "pushed_at": "2026-08-27T06:06:36Z",
+      "open_prs": 1,
+      "pushed_at": "2026-08-28T06:07:42Z",
       "created_at": "2025-02-10T00:01:14Z",
       "language": "Python",
-      "stars": 51,
+      "stars": 52,
       "release": null
     },
     {
@@ -1378,7 +1378,7 @@
       "pushed_at": "2025-11-16T08:00:26Z",
       "created_at": "2025-03-04T12:45:13Z",
       "language": "PowerShell",
-      "stars": 2,
+      "stars": 3,
       "release": null
     },
     {
@@ -1393,7 +1393,7 @@
       "pushed_at": "2026-08-18T20:00:20Z",
       "created_at": "2025-04-28T16:59:04Z",
       "language": "Python",
-      "stars": 335,
+      "stars": 337,
       "release": {
         "tag": "26.3",
         "published_at": "2026-06-30T16:42:36Z",
@@ -1412,7 +1412,7 @@
       "pushed_at": "2026-07-08T14:59:02Z",
       "created_at": "2025-06-21T21:12:24Z",
       "language": "Python",
-      "stars": 18,
+      "stars": 19,
       "release": null
     },
     {
@@ -1424,10 +1424,10 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-08-26T00:08:45Z",
+      "pushed_at": "2026-08-28T02:33:44Z",
       "created_at": "2025-08-13T18:16:02Z",
       "language": null,
-      "stars": 1,
+      "stars": 2,
       "release": null
     },
     {
@@ -1442,7 +1442,7 @@
       "pushed_at": "2026-08-24T19:57:12Z",
       "created_at": "2025-10-13T18:18:24Z",
       "language": "Python",
-      "stars": 28,
+      "stars": 29,
       "release": null
     },
     {
@@ -1457,7 +1457,7 @@
       "pushed_at": "2026-07-01T09:38:45Z",
       "created_at": "2025-11-17T10:16:26Z",
       "language": "Python",
-      "stars": 4,
+      "stars": 5,
       "release": null
     },
     {
@@ -1472,7 +1472,7 @@
       "pushed_at": "2026-08-24T18:55:59Z",
       "created_at": "2026-02-13T05:49:21Z",
       "language": "Astro",
-      "stars": 31,
+      "stars": 32,
       "release": null
     },
     {
