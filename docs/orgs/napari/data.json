@@ -1,6 +1,6 @@
 {
   "org": "napari",
-  "fetched_at": "2026-08-29T06:18:29.949Z",
+  "fetched_at": "2026-08-30T06:19:03.552Z",
   "repos": [
     {
       "name": "napari-core",
@@ -70,11 +70,11 @@
       "fork": false,
       "private": false,
       "open_issues": 1085,
-      "open_prs": 149,
+      "open_prs": 150,
       "pushed_at": "2026-08-25T17:13:28Z",
       "created_at": "2018-08-13T01:12:28Z",
       "language": "Python",
-      "stars": 2749,
+      "stars": 2750,
       "release": {
         "tag": "v0.9.0",
         "published_at": "2026-08-25T17:14:22Z",
@@ -455,7 +455,7 @@
       "private": false,
       "open_issues": 14,
       "open_prs": 2,
-      "pushed_at": "2026-08-29T06:17:30Z",
+      "pushed_at": "2026-08-30T06:16:11Z",
       "created_at": "2022-07-27T17:29:23Z",
       "language": "Python",
       "stars": 3,
@@ -666,7 +666,7 @@
       "private": false,
       "open_issues": 4,
       "open_prs": 2,
-      "pushed_at": "2026-08-28T12:10:04Z",
+      "pushed_at": "2026-08-29T08:30:32Z",
       "created_at": "2024-03-14T12:01:45Z",
       "language": "Python",
       "stars": 1,
