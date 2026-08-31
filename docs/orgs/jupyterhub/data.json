@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-08-30T06:19:10.772Z",
+  "fetched_at": "2026-08-31T06:27:25.056Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -14,7 +14,7 @@
       "pushed_at": "2026-08-24T21:48:18Z",
       "created_at": "2014-06-12T23:22:10Z",
       "language": "Python",
-      "stars": 8332,
+      "stars": 8331,
       "release": null
     },
     {
@@ -409,8 +409,8 @@
       "fork": false,
       "private": false,
       "open_issues": 119,
-      "open_prs": 15,
-      "pushed_at": "2026-08-27T08:29:40Z",
+      "open_prs": 17,
+      "pushed_at": "2026-08-31T05:15:23Z",
       "created_at": "2017-04-10T19:25:35Z",
       "language": "Python",
       "stars": 1719,
@@ -443,7 +443,7 @@
       "fork": false,
       "private": false,
       "open_issues": 228,
-      "open_prs": 42,
+      "open_prs": 43,
       "pushed_at": "2026-08-05T07:25:38Z",
       "created_at": "2017-04-26T00:28:26Z",
       "language": "Python",
@@ -457,7 +457,7 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 180,
+      "open_issues": 181,
       "open_prs": 14,
       "pushed_at": "2026-08-21T20:07:47Z",
       "created_at": "2017-05-09T08:36:30Z",
@@ -477,8 +477,8 @@
       "fork": false,
       "private": false,
       "open_issues": 44,
-      "open_prs": 3,
-      "pushed_at": "2026-08-29T11:35:36Z",
+      "open_prs": 4,
+      "pushed_at": "2026-08-31T05:03:08Z",
       "created_at": "2017-05-22T19:17:42Z",
       "language": "Python",
       "stars": 83,
@@ -654,7 +654,7 @@
       "pushed_at": "2026-08-24T21:20:23Z",
       "created_at": "2018-06-15T22:37:12Z",
       "language": "Python",
-      "stars": 1147,
+      "stars": 1148,
       "release": null
     },
     {
@@ -917,7 +917,7 @@
       "pushed_at": "2026-08-01T05:02:25Z",
       "created_at": "2020-05-05T12:31:10Z",
       "language": "Shell",
-      "stars": 30,
+      "stars": 31,
       "release": null
     },
     {
@@ -1189,7 +1189,7 @@
       "private": false,
       "open_issues": 1,
       "open_prs": 2,
-      "pushed_at": "2026-08-24T05:18:19Z",
+      "pushed_at": "2026-08-31T05:19:25Z",
       "created_at": "2024-11-24T23:17:24Z",
       "language": "Dockerfile",
       "stars": 6,
