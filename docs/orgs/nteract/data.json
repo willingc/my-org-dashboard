@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-09-02T06:26:34.121Z",
+  "fetched_at": "2026-10-23T15:57:30.898Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -29,7 +29,7 @@
       "pushed_at": "2026-07-19T05:45:37Z",
       "created_at": "2015-05-11T01:16:55Z",
       "language": "TypeScript",
-      "stars": 4021,
+      "stars": 4017,
       "release": {
         "tag": "v2.16.5",
         "published_at": "2023-01-10T01:02:49Z",
@@ -67,7 +67,7 @@
       "pushed_at": "2023-12-30T16:09:02Z",
       "created_at": "2015-06-15T23:21:49Z",
       "language": "TypeScript",
-      "stars": 6246,
+      "stars": 6243,
       "release": {
         "tag": "v0.28.0",
         "published_at": "2021-01-26T05:18:38Z",
@@ -499,7 +499,7 @@
       "pushed_at": "2026-01-24T01:19:29Z",
       "created_at": "2016-03-19T20:50:05Z",
       "language": "TypeScript",
-      "stars": 97,
+      "stars": 98,
       "release": {
         "tag": "v6.2.6",
         "published_at": "2026-01-24T01:19:34Z",
@@ -679,8 +679,8 @@
       "fork": false,
       "private": false,
       "open_issues": 0,
-      "open_prs": 3,
-      "pushed_at": "2026-08-12T02:22:46Z",
+      "open_prs": 1,
+      "pushed_at": "2026-10-21T14:45:14Z",
       "created_at": "2016-09-25T21:08:32Z",
       "language": "TypeScript",
       "stars": 46,
@@ -792,7 +792,7 @@
       "pushed_at": "2026-05-14T14:55:36Z",
       "created_at": "2017-01-03T22:23:32Z",
       "language": "JavaScript",
-      "stars": 504,
+      "stars": 503,
       "release": null
     },
     {
@@ -832,16 +832,16 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 34,
+      "open_issues": 232,
       "open_prs": 6,
-      "pushed_at": "2026-09-01T10:27:57Z",
+      "pushed_at": "2026-10-23T14:28:21Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
-      "stars": 2691,
+      "stars": 2716,
       "release": {
-        "tag": "v3.9.2",
-        "published_at": "2026-09-01T03:47:23Z",
-        "url": "https://github.com/nteract/semiotic/releases/tag/v3.9.2"
+        "tag": "v3.13.0",
+        "published_at": "2026-10-22T23:10:06Z",
+        "url": "https://github.com/nteract/semiotic/releases/tag/v3.13.0"
       }
     },
     {
@@ -886,11 +886,11 @@
       "fork": false,
       "private": false,
       "open_issues": 148,
-      "open_prs": 48,
-      "pushed_at": "2026-07-06T21:18:39Z",
+      "open_prs": 49,
+      "pushed_at": "2026-10-05T23:30:41Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6477,
+      "stars": 6496,
       "release": null
     },
     {
@@ -935,7 +935,7 @@
       "pushed_at": "2023-03-25T23:44:20Z",
       "created_at": "2017-08-30T18:31:57Z",
       "language": "Jupyter Notebook",
-      "stars": 225,
+      "stars": 224,
       "release": {
         "tag": "0.5",
         "published_at": "2017-11-09T16:44:34Z",
@@ -1378,7 +1378,7 @@
       "pushed_at": "2024-07-15T21:19:01Z",
       "created_at": "2019-12-12T14:00:37Z",
       "language": "JavaScript",
-      "stars": 4,
+      "stars": 5,
       "release": null
     },
     {
@@ -1412,7 +1412,7 @@
       "pushed_at": "2024-08-25T01:24:05Z",
       "created_at": "2020-02-26T19:43:22Z",
       "language": "Python",
-      "stars": 434,
+      "stars": 435,
       "release": null
     },
     {
@@ -1692,16 +1692,16 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 30,
-      "open_prs": 3,
-      "pushed_at": "2026-09-02T06:14:46Z",
+      "open_issues": 46,
+      "open_prs": 4,
+      "pushed_at": "2026-10-23T15:30:28Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "Rust",
-      "stars": 165,
+      "stars": 184,
       "release": {
-        "tag": "v2.7.6-stable.202608280705",
-        "published_at": "2026-08-28T07:38:55Z",
-        "url": "https://github.com/nteract/nteract/releases/tag/v2.7.6-stable.202608280705"
+        "tag": "v2.9.0-stable.202610230557",
+        "published_at": "2026-10-23T06:46:13Z",
+        "url": "https://github.com/nteract/nteract/releases/tag/v2.9.0-stable.202610230557"
       }
     },
     {
@@ -1807,7 +1807,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-09-01T09:25:01Z",
+      "pushed_at": "2026-10-23T09:52:33Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 1,
@@ -1837,7 +1837,7 @@
       "private": true,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-06-18T21:12:44Z",
+      "pushed_at": "2026-09-30T00:57:19Z",
       "created_at": "2026-04-22T03:42:05Z",
       "language": "Jupyter Notebook",
       "stars": 0,
@@ -1885,6 +1885,21 @@
       "pushed_at": "2026-08-17T20:31:26Z",
       "created_at": "2026-07-21T17:11:19Z",
       "language": "Rust",
+      "stars": 0,
+      "release": null
+    },
+    {
+      "name": "preview-infra",
+      "url": "https://github.com/nteract/preview-infra",
+      "description": "Per-PR nteract environments on celld: infrastructure, authentication, deployment, and lifecycle management.",
+      "archived": false,
+      "fork": false,
+      "private": true,
+      "open_issues": 3,
+      "open_prs": 0,
+      "pushed_at": "2026-10-20T00:24:38Z",
+      "created_at": "2026-09-22T02:52:50Z",
+      "language": "JavaScript",
       "stars": 0,
       "release": null
     }
