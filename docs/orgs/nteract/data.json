@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-10-26T12:28:51.548Z",
+  "fetched_at": "2026-10-26T12:43:11.973Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -1185,7 +1185,7 @@
     {
       "name": "bookstore",
       "url": "https://github.com/nteract/bookstore",
-      "description": "📚 Notebook storage and publishing workflows for the masses",
+      "description": "��� Notebook storage and publishing workflows for the masses",
       "archived": true,
       "fork": false,
       "private": false,
