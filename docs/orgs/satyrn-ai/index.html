@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GitHub Org Dashboard</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:           #ffffff;
+      --bg-secondary: #f5f5f4;
+      --text:         #1a1a1a;
+      --text-sec:     #6b7280;
+      --text-ter:     #9ca3af;
+      --border:       rgba(0,0,0,0.1);
+      --border-h:     rgba(0,0,0,0.2);
+      --accent:       #2563eb;
+      --accent-bg:    #eff6ff;
+      --warn-bg:      #fffbeb;
+      --warn-text:    #92400e;
+      --success:      #15803d;
+      --danger:       #dc2626;
+      --danger-bg:    #fef2f2;
+      --danger-text:  #991b1b;
+      --radius:       8px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg:           #1c1c1e;
+        --bg-secondary: #2c2c2e;
+        --text:         #f5f5f5;
+        --text-sec:     #a1a1aa;
+        --text-ter:     #71717a;
+        --border:       rgba(255,255,255,0.1);
+        --border-h:     rgba(255,255,255,0.2);
+        --accent:       #60a5fa;
+        --accent-bg:    #1e3a5f;
+        --warn-bg:      #451a03;
+        --warn-text:    #fcd34d;
+        --success:      #4ade80;
+        --danger:       #f87171;
+        --danger-bg:    #450a0a;
+        --danger-text:  #fca5a5;
+      }
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      background: var(--bg);
+      min-height: 100vh;
+      padding: 2rem;
+      line-height: 1.5;
+    }
+
+    .page-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 0.25rem;
+    }
+
+    h1 { font-size: 20px; font-weight: 600; }
+
+    .org-link { font-size: 13px; color: var(--accent); text-decoration: none; }
+    .org-link:hover { text-decoration: underline; }
+
+    .subtitle { font-size: 13px; color: var(--text-sec); margin-bottom: 1.5rem; }
+
+    /* Stats */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0,1fr));
+      gap: 10px;
+      margin-bottom: 1.25rem;
+    }
+    .stat-card { background: var(--bg-secondary); border-radius: var(--radius); padding: 12px 14px; }
+    .stat-label { font-size: 11px; color: var(--text-sec); margin-bottom: 4px; }
+    .stat-val   { font-size: 22px; font-weight: 600; }
+
+    /* Filters */
+    .filters {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+    input[type="text"], select {
+      height: 32px;
+      padding: 0 10px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--bg);
+      color: var(--text);
+      font-size: 13px;
+      outline: none;
+    }
+    input[type="text"] { flex: 1; min-width: 160px; }
+    input[type="text"]:focus, select:focus { border-color: var(--accent); }
+
+    .filters label {
+      font-size: 13px;
+      color: var(--text-sec);
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      cursor: pointer;
+    }
+
+    /* Table */
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+
+    th {
+      text-align: left;
+      font-size: 11px;
+      font-weight: 500;
+      color: var(--text-sec);
+      padding: 6px 10px;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+      cursor: pointer;
+      user-select: none;
+    }
+    th:hover { color: var(--text); }
+    th .arrow { margin-left: 3px; opacity: 0.4; font-size: 10px; }
+    th.active .arrow { opacity: 1; }
+
+    td {
+      padding: 9px 10px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: middle;
+    }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: var(--bg-secondary); }
+
+    a.repo-link { font-weight: 500; color: var(--accent); text-decoration: none; }
+    a.repo-link:hover { text-decoration: underline; }
+
+    /* Badges */
+    .badge { display: inline-flex; align-items: center; padding: 2px 9px; border-radius: 99px; font-size: 11px; font-weight: 500; }
+    .b-warn { background: var(--warn-bg);      color: var(--warn-text); }
+    .b-info { background: var(--accent-bg);    color: var(--accent); }
+    .b-zero { background: var(--bg-secondary); color: var(--text-ter); }
+    .b-arch { background: var(--bg-secondary); color: var(--text-ter); font-size: 10px; padding: 1px 7px; margin-left: 6px; border-radius: 4px; }
+
+    /* Date colours */
+    .fresh { color: var(--success); }
+    .stale { color: var(--danger); }
+    .muted { color: var(--text-sec); }
+    .dim   { color: var(--text-ter); font-style: italic; }
+
+    /* Error / loading */
+    .error-box {
+      background: var(--danger-bg);
+      color: var(--danger-text);
+      border-radius: var(--radius);
+      padding: 10px 14px;
+      margin-bottom: 1rem;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+    .msg-cell { text-align: center; padding: 2.5rem; color: var(--text-sec); font-size: 14px; }
+    .spin { display: inline-block; animation: spin 0.9s linear infinite; margin-right: 6px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Footer */
+    footer {
+      margin-top: 2rem;
+      font-size: 12px;
+      color: var(--text-ter);
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+    footer a { color: var(--text-ter); }
+    footer a:hover { color: var(--text-sec); }
+  </style>
+</head>
+<body>
+
+  <div class="page-header">
+    <h1 id="page-title">GitHub Org Dashboard</h1>
+    <a id="org-link" class="org-link" href="#" target="_blank" rel="noopener noreferrer"></a>
+  </div>
+  <p class="subtitle" id="subtitle"><span class="spin">⟳</span> Loading…</p>
+
+  <div id="error-box" class="error-box" style="display:none"></div>
+
+  <div class="stats-bar" id="stats-bar" style="display:none">
+    <div class="stat-card"><div class="stat-label">Repos</div><div class="stat-val" id="s-repos">—</div></div>
+    <div class="stat-card"><div class="stat-label">Open issues</div><div class="stat-val" id="s-issues">—</div></div>
+    <div class="stat-card"><div class="stat-label">Open PRs</div><div class="stat-val" id="s-prs">—</div></div>
+    <div class="stat-card"><div class="stat-label">With releases</div><div class="stat-val" id="s-rel">—</div></div>
+  </div>
+
+  <div class="filters" id="filters" style="display:none">
+    <input type="text" id="search" placeholder="Search repos…" oninput="renderTable()" />
+    <select id="sort-col" onchange="renderTable()">
+      <option value="name">Sort: Name</option>
+      <option value="issues">Sort: Open issues</option>
+      <option value="prs">Sort: Open PRs</option>
+      <option value="activity">Sort: Last activity</option>
+      <option value="release">Sort: Last release</option>
+      <option value="stars">Sort: Stars</option>
+    </select>
+    <select id="sort-dir" onchange="renderTable()">
+      <option value="asc">Ascending</option>
+      <option value="desc">Descending</option>
+    </select>
+    <label><input type="checkbox" id="hide-arch" onchange="renderTable()" /> Hide archived</label>
+    <label><input type="checkbox" id="hide-forks" onchange="renderTable()" /> Hide forks</label>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th data-col="name">Repository <span class="arrow">↕</span></th>
+          <th data-col="issues">Issues <span class="arrow">↕</span></th>
+          <th data-col="prs">PRs <span class="arrow">↕</span></th>
+          <th data-col="stars">Stars <span class="arrow">↕</span></th>
+          <th data-col="activity">Last activity <span class="arrow">↕</span></th>
+          <th data-col="release">Last release <span class="arrow">↕</span></th>
+        </tr>
+      </thead>
+      <tbody id="tbody">
+        <tr><td colspan="6" class="msg-cell"><span class="spin">⟳</span> Loading…</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer>
+    <span id="footer-updated"></span>
+    <span>Data refreshed daily via <a href="../../actions" target="_blank">GitHub Actions</a></span>
+  </footer>
+
+  <script>
+    let allRepos = [];
+
+    const qs = s => document.querySelector(s);
+
+    function relDate(str) {
+      if (!str) return null;
+      const days = (Date.now() - new Date(str).getTime()) / 86400000;
+      if (days < 1)   return "today";
+      if (days < 2)   return "yesterday";
+      if (days < 7)   return Math.floor(days) + "d ago";
+      if (days < 30)  return Math.floor(days / 7) + "w ago";
+      if (days < 365) return Math.floor(days / 30) + "mo ago";
+      return Math.floor(days / 365) + "y ago";
+    }
+
+    function dateClass(str) {
+      if (!str) return "muted";
+      const days = (Date.now() - new Date(str).getTime()) / 86400000;
+      if (days < 30)  return "fresh";
+      if (days > 365) return "stale";
+      return "muted";
+    }
+
+    function fmtDateTime(iso) {
+      return new Date(iso).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+    }
+
+    function renderTable() {
+      const search    = qs("#search").value.toLowerCase();
+      const col       = qs("#sort-col").value;
+      const dir       = qs("#sort-dir").value;
+      const hideArch  = qs("#hide-arch").checked;
+      const hideForks = qs("#hide-forks").checked;
+
+      document.querySelectorAll("th[data-col]").forEach(th => {
+        th.classList.toggle("active", th.dataset.col === col);
+        th.querySelector(".arrow").textContent =
+          th.dataset.col === col ? (dir === "asc" ? "↑" : "↓") : "↕";
+      });
+
+      let repos = allRepos.filter(r => {
+        if (hideArch  && r.archived) return false;
+        if (hideForks && r.fork)     return false;
+        if (search && !r.name.toLowerCase().includes(search) &&
+            !(r.description || "").toLowerCase().includes(search)) return false;
+        return true;
+      });
+
+      repos.sort((a, b) => {
+        let va, vb;
+        if (col === "name")     { va = a.name.toLowerCase();              vb = b.name.toLowerCase(); }
+        if (col === "issues")   { va = a.open_issues;                     vb = b.open_issues; }
+        if (col === "prs")      { va = a.open_prs;                        vb = b.open_prs; }
+        if (col === "stars")    { va = a.stars;                           vb = b.stars; }
+        if (col === "activity") { va = a.pushed_at || "";                 vb = b.pushed_at || ""; }
+        if (col === "release")  { va = a.release?.published_at || "";     vb = b.release?.published_at || ""; }
+        if (va < vb) return dir === "asc" ? -1 : 1;
+        if (va > vb) return dir === "asc" ?  1 : -1;
+        return 0;
+      });
+
+      if (!repos.length) {
+        qs("#tbody").innerHTML = '<tr><td colspan="6" class="msg-cell">No repos match your filters.</td></tr>';
+        return;
+      }
+
+      qs("#tbody").innerHTML = repos.map(r => {
+        const archBadge  = r.archived ? '<span class="badge b-arch">archived</span>' : "";
+        const forkBadge  = r.fork     ? '<span class="badge b-arch">fork</span>'     : "";
+        const issueBadge = r.open_issues > 0
+          ? `<span class="badge b-warn">${r.open_issues}</span>`
+          : `<span class="badge b-zero">0</span>`;
+        const prBadge = r.open_prs > 0
+          ? `<span class="badge b-info">${r.open_prs}</span>`
+          : `<span class="badge b-zero">0</span>`;
+        const act = relDate(r.pushed_at);
+        const rel = r.release ? relDate(r.release.published_at) : null;
+        const relCell = rel
+          ? `<a href="${r.release.url}" target="_blank" rel="noopener noreferrer"
+               class="${dateClass(r.release.published_at)}" style="text-decoration:none">
+               ${rel} <span style="font-size:11px;opacity:0.6">${r.release.tag}</span>
+             </a>`
+          : '<span class="dim">no release</span>';
+
+        return `<tr>
+          <td>
+            <a class="repo-link" href="${r.url}" target="_blank" rel="noopener noreferrer">${r.name}</a>
+            ${archBadge}${forkBadge}
+            ${r.description ? `<br><span style="font-size:12px;color:var(--text-sec)">${r.description}</span>` : ""}
+          </td>
+          <td>${issueBadge}</td>
+          <td>${prBadge}</td>
+          <td class="muted">${r.stars > 0 ? "★ " + r.stars.toLocaleString() : "—"}</td>
+          <td class="${dateClass(r.pushed_at)}">${act || "—"}</td>
+          <td>${relCell}</td>
+        </tr>`;
+      }).join("");
+    }
+
+    document.querySelectorAll("th[data-col]").forEach(th => {
+      th.addEventListener("click", () => {
+        const col = th.dataset.col;
+        if (qs("#sort-col").value === col) {
+          qs("#sort-dir").value = qs("#sort-dir").value === "asc" ? "desc" : "asc";
+        } else {
+          qs("#sort-col").value = col;
+          qs("#sort-dir").value = "asc";
+        }
+        renderTable();
+      });
+    });
+
+    async function init() {
+      try {
+        // data.json sits alongside this index.html in each org's folder
+        const res = await fetch("data.json");
+        if (!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+        const json = await res.json();
+
+        allRepos = json.repos;
+
+        qs("#page-title").textContent = `${json.org} — Repo Dashboard`;
+        document.title               = `${json.org} Dashboard`;
+        qs("#org-link").href          = `https://github.com/${json.org}`;
+        qs("#org-link").textContent   = `github.com/${json.org}`;
+        qs("#subtitle").textContent   = `${allRepos.length} repositories`;
+        qs("#footer-updated").textContent = `Last updated: ${fmtDateTime(json.fetched_at)}`;
+
+        const totalIssues = allRepos.reduce((s, r) => s + r.open_issues, 0);
+        const totalPRs    = allRepos.reduce((s, r) => s + r.open_prs, 0);
+        const withRel     = allRepos.filter(r => r.release).length;
+
+        qs("#s-repos").textContent  = allRepos.length;
+        qs("#s-issues").textContent = totalIssues.toLocaleString();
+        qs("#s-prs").textContent    = totalPRs.toLocaleString();
+        qs("#s-rel").textContent    = withRel;
+
+        qs("#stats-bar").style.display = "grid";
+        qs("#filters").style.display   = "flex";
+        renderTable();
+
+      } catch (e) {
+        qs("#subtitle").textContent = "";
+        const box = qs("#error-box");
+        box.innerHTML = `<strong>Failed to load data.json:</strong> ${e.message}
+          <br><small>If running locally, use a local server: <code>npx serve docs</code></small>`;
+        box.style.display = "block";
+        qs("#tbody").innerHTML = '<tr><td colspan="6" class="msg-cell">No data available.</td></tr>';
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>
