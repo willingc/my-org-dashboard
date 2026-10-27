@@ -1,6 +1,6 @@
 {
   "org": "pyladies",
-  "fetched_at": "2026-10-26T12:43:16.437Z",
+  "fetched_at": "2026-10-27T06:21:24.054Z",
   "repos": [
     {
       "name": "pyladies",
@@ -1045,8 +1045,8 @@
       "fork": true,
       "private": false,
       "open_issues": 0,
-      "open_prs": 3,
-      "pushed_at": "2026-10-25T15:56:45Z",
+      "open_prs": 2,
+      "pushed_at": "2026-10-26T17:17:44Z",
       "created_at": "2025-10-13T20:10:48Z",
       "language": "Python",
       "stars": 2,
@@ -1089,7 +1089,7 @@
       "archived": false,
       "fork": false,
       "private": false,
-      "open_issues": 9,
+      "open_issues": 8,
       "open_prs": 1,
       "pushed_at": "2026-10-26T10:08:34Z",
       "created_at": "2026-09-15T19:22:22Z",
@@ -1116,7 +1116,7 @@
       "name": "pyladiescon-discord",
       "url": "https://github.com/pyladies/pyladiescon-discord",
       "description": "PyLadiesCon Discord bot, packaged for PSF cabotage (fork of the EuroPython Discord bot)",
-      "archived": false,
+      "archived": true,
       "fork": false,
       "private": false,
       "open_issues": 0,
