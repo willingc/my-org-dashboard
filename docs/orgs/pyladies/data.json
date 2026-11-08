@@ -1,6 +1,6 @@
 {
   "org": "pyladies",
-  "fetched_at": "2026-11-07T06:11:52.526Z",
+  "fetched_at": "2026-11-08T06:12:09.987Z",
   "repos": [
     {
       "name": "pyladies",
@@ -850,8 +850,8 @@
       "fork": false,
       "private": false,
       "open_issues": 18,
-      "open_prs": 1,
-      "pushed_at": "2026-11-05T22:15:51Z",
+      "open_prs": 0,
+      "pushed_at": "2026-11-07T16:06:36Z",
       "created_at": "2023-05-11T19:18:20Z",
       "language": "MDX",
       "stars": 5,
