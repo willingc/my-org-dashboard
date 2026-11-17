@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-11-16T06:20:38.665Z",
+  "fetched_at": "2026-11-17T06:14:05.922Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -680,7 +680,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 2,
-      "pushed_at": "2026-11-01T20:17:59Z",
+      "pushed_at": "2026-11-17T01:02:55Z",
       "created_at": "2016-09-25T21:08:32Z",
       "language": "TypeScript",
       "stars": 46,
@@ -833,8 +833,8 @@
       "fork": false,
       "private": false,
       "open_issues": 201,
-      "open_prs": 2,
-      "pushed_at": "2026-11-16T03:42:57Z",
+      "open_prs": 5,
+      "pushed_at": "2026-11-16T10:22:53Z",
       "created_at": "2017-03-16T17:46:24Z",
       "language": "TypeScript",
       "stars": 2717,
@@ -890,7 +890,7 @@
       "pushed_at": "2026-10-05T23:30:41Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6498,
+      "stars": 6499,
       "release": null
     },
     {
@@ -1693,15 +1693,15 @@
       "fork": false,
       "private": false,
       "open_issues": 67,
-      "open_prs": 1,
-      "pushed_at": "2026-11-16T05:35:50Z",
+      "open_prs": 8,
+      "pushed_at": "2026-11-17T00:16:11Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "JavaScript",
       "stars": 193,
       "release": {
-        "tag": "v2.10.0-stable.202611130133",
-        "published_at": "2026-11-13T02:28:15Z",
-        "url": "https://github.com/nteract/nteract/releases/tag/v2.10.0-stable.202611130133"
+        "tag": "v2.10.1-stable.202611161848",
+        "published_at": "2026-11-16T19:52:07Z",
+        "url": "https://github.com/nteract/nteract/releases/tag/v2.10.1-stable.202611161848"
       }
     },
     {
@@ -1807,7 +1807,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-11-13T02:29:03Z",
+      "pushed_at": "2026-11-16T19:53:00Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 1,
