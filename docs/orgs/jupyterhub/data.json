@@ -1,6 +1,6 @@
 {
   "org": "jupyterhub",
-  "fetched_at": "2026-11-21T06:12:04.051Z",
+  "fetched_at": "2026-11-22T06:12:42.648Z",
   "repos": [
     {
       "name": "jupyterhub",
@@ -729,7 +729,7 @@
       "pushed_at": "2026-11-02T22:51:56Z",
       "created_at": "2018-11-19T12:17:34Z",
       "language": "Jupyter Notebook",
-      "stars": 60,
+      "stars": 61,
       "release": null
     },
     {
