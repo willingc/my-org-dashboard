@@ -1,6 +1,6 @@
 {
   "org": "nteract",
-  "fetched_at": "2026-11-26T06:14:15.091Z",
+  "fetched_at": "2026-11-27T06:14:35.176Z",
   "repos": [
     {
       "name": "old-sidecar",
@@ -890,7 +890,7 @@
       "pushed_at": "2026-10-05T23:30:41Z",
       "created_at": "2017-07-06T17:17:53Z",
       "language": "Python",
-      "stars": 6502,
+      "stars": 6501,
       "release": null
     },
     {
@@ -1694,14 +1694,14 @@
       "private": false,
       "open_issues": 75,
       "open_prs": 1,
-      "pushed_at": "2026-11-26T01:05:15Z",
+      "pushed_at": "2026-11-27T04:59:57Z",
       "created_at": "2026-02-11T18:18:05Z",
       "language": "JavaScript",
       "stars": 195,
       "release": {
-        "tag": "v2.10.1-stable.202611161848",
-        "published_at": "2026-11-16T19:52:07Z",
-        "url": "https://github.com/nteract/nteract/releases/tag/v2.10.1-stable.202611161848"
+        "tag": "v2.11.0-stable.202611261702",
+        "published_at": "2026-11-27T03:20:17Z",
+        "url": "https://github.com/nteract/nteract/releases/tag/v2.11.0-stable.202611261702"
       }
     },
     {
@@ -1807,7 +1807,7 @@
       "private": false,
       "open_issues": 0,
       "open_prs": 0,
-      "pushed_at": "2026-11-26T02:12:48Z",
+      "pushed_at": "2026-11-27T03:21:56Z",
       "created_at": "2026-04-21T23:36:44Z",
       "language": "Shell",
       "stars": 1,
